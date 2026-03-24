@@ -4,18 +4,21 @@
 #include <stdint.h>
 #include "variant.h"
 
-// static const uint8_t TX = 43;
-// static const uint8_t RX = 44;
+// --- Serial Pin Default (Hardware UART0) ---
+static const uint8_t TX = 43;
+static const uint8_t RX = 44;
 
-static const uint8_t SDA = 10;
-static const uint8_t SCL = 11;
+// --- Bus I2C Default ---
+static const uint8_t SDA = I2C_SDA;
+static const uint8_t SCL = I2C_SCL;
 
-// Default SPI will be mapped to Radio
-static const uint8_t SS = 5;
-static const uint8_t MOSI = 1;
-static const uint8_t MISO = 4;
-static const uint8_t SCK = 3;
+// --- Bus SPI Default ---
+static const uint8_t SS   = LORA_CS;
+static const uint8_t MOSI = LORA_MOSI;
+static const uint8_t MISO = LORA_MISO;
+static const uint8_t SCK  = LORA_SCK;
 
+// --- Pin Analogici (Standard ESP32-S3) ---
 static const uint8_t A0 = 1;
 static const uint8_t A1 = 2;
 static const uint8_t A2 = 3;
@@ -37,6 +40,7 @@ static const uint8_t A17 = 18;
 static const uint8_t A18 = 19;
 static const uint8_t A19 = 20;
 
+// --- Pin Touch Capacitivi (Standard ESP32-S3) ---
 static const uint8_t T1 = 1;
 static const uint8_t T2 = 2;
 static const uint8_t T3 = 3;
