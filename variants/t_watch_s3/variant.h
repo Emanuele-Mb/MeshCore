@@ -1,90 +1,76 @@
-// ST7789 TFT LCD
-#define ST7789_CS 12
-#define ST7789_RS 38  // DC
-#define ST7789_SDA 13 // MOSI
-#define ST7789_SCK 18
-#define ST7789_RESET -1
-#define ST7789_MISO -1
-#define ST7789_BUSY -1
-#define ST7789_BL 45
-#define ST7789_SPI_HOST SPI3_HOST
-#define TFT_BL 45
-#define SPI_FREQUENCY 40000000
-#define SPI_READ_FREQUENCY 16000000
-#define TFT_HEIGHT 240
-#define TFT_WIDTH 240
-#define TFT_OFFSET_X 0
-#define TFT_OFFSET_Y 0
-#define TFT_OFFSET_ROTATION 2
-#define SCREEN_ROTATE
-#define SCREEN_TRANSITION_FRAMERATE 5 // fps
-#define USE_TFTDISPLAY 1
+#ifndef _VARIANT_H_
+#define _VARIANT_H_
 
-#define HAS_DRV2605 1
+// ==============================================================================
+//  LILYGO T-WATCH S3 (ESP32-S3) - HARDWARE PINOUT MAP
+// ==============================================================================
 
-#define HAS_TOUCHSCREEN 1
-#define SCREEN_TOUCH_INT 16
-#define SCREEN_TOUCH_USE_I2C1
-#define TOUCH_I2C_PORT 1
-#define TOUCH_SLAVE_ADDRESS 0x38
-#define WAKE_ON_TOUCH
+// ------------------------------------------------------------------------------
+// 1. BUS I2C (PMU AXP2101, Sensor QMC6310, RTC PCF8563)
+// ------------------------------------------------------------------------------
+#define I2C_SDA         10
+#define I2C_SCL         11
 
-#define USE_POWERSAVE
-#define SLEEP_TIME 180
+#define PMU_IRQ         21    // Interrupt del chip di alimentazione AXP2101
+#define BMA423_INT      14    // Interrupt dell'accelerometro
+#define RTC_ADDR        0x51  // Indirizzo I2C dell'RTC PCF8563
 
-#define I2C_SDA1 39 // Used for capacitive touch
-#define I2C_SCL1 40 // Used for capacitive touch
+// ------------------------------------------------------------------------------
+// 2. RADIO LORA (Semtech SX1262)
+// ------------------------------------------------------------------------------
+#define LORA_MOSI       1
+#define LORA_MISO       4
+#define LORA_SCK        3
+#define LORA_CS         5     
 
-#define HAS_I2S
-#define DAC_I2S_BCK 48
-#define DAC_I2S_WS 15
-#define DAC_I2S_DOUT 46
-#define DAC_I2S_MCLK 0
+#define LORA_RESET      8     
+#define LORA_DIO1       9     // SX1262 IRQ
+#define LORA_DIO2       7     // SX1262 BUSY
 
-#define HAS_AXP2101
+// Alias 
+#define SX126X_CS       LORA_CS 
+#define SX126X_DIO1     LORA_DIO1
+#define SX126X_BUSY     LORA_DIO2
+#define SX126X_RESET    LORA_RESET
 
-// PCF8563 RTC Module
-#define PCF8563_RTC 0x51
-
-#define I2C_SDA 10 // For QMC6310 sensors and screens
-#define I2C_SCL 11 // For QMC6310 sensors and screens
-
-#define HAS_BMA423 1
-#define BMA4XX_INT 14 // Interrupt for BMA_423 axis sensor
-
-#define HAS_GPS 1
-#define GPS_DEFAULT_NOT_PRESENT 1
-#define GPS_BAUDRATE 38400
-#define GPS_RX_PIN 41
-#define GPS_TX_PIN 42
-
-#define BUTTON_PIN 0 // only for Plus version
-
-#define PMU_IRQ 21 // Interrupt pin for the PMU
-
-#define USE_SX1262
-#define USE_SX1268
-
-#define LORA_SCK 3
-#define LORA_MISO 4
-#define LORA_MOSI 1
-#define LORA_CS 5
-
-#define LORA_DIO0 -1 // a No connect on the SX1262 module
-#define LORA_RESET 8
-#define LORA_DIO1 9 // SX1262 IRQ
-#define LORA_DIO2 7 // SX1262 BUSY
-#define LORA_DIO3   // Not connected on PCB, but internally on the TTGO SX1262, if DIO3 is high the TXCO is enabled
-
-#define SX126X_CS LORA_CS // FIXME - we really should define LORA_CS instead
-#define SX126X_DIO1 LORA_DIO1
-#define SX126X_BUSY LORA_DIO2
-#define SX126X_RESET LORA_RESET
-// Not really an E22 but TTGO seems to be trying to clone that
 #define SX126X_DIO2_AS_RF_SWITCH
 #define SX126X_DIO3_TCXO_VOLTAGE 1.8
-// Internally the TTGO module hooks the SX1262-DIO2 in to control the TX/RX switch (which is the default for
-// the sx1262interface code)
 
-#define USE_VIRTUAL_KEYBOARD 1
-#define DISPLAY_CLOCK_FRAME 1
+// ------------------------------------------------------------------------------
+// 3. DISPLAY (ST7789 - SPI 240x240)
+// ------------------------------------------------------------------------------
+#define TFT_MOSI        13    
+#define TFT_SCLK        18    
+#define TFT_CS          12
+#define TFT_DC          38    
+#define TFT_RST         -1    
+#define TFT_BL          45    // BackLight
+
+#define TFT_WIDTH       240
+#define TFT_HEIGHT      240
+
+// ------------------------------------------------------------------------------
+// 4. TOUCH SCREEN (Bus I2C)
+// ------------------------------------------------------------------------------
+#define TOUCH_SDA       39
+#define TOUCH_SCL       40
+#define TOUCH_INT       16
+#define TOUCH_ADDR      0x38
+
+// ------------------------------------------------------------------------------
+// 5. GPS
+// ------------------------------------------------------------------------------
+#define GPS_RX_PIN      41
+#define GPS_TX_PIN      42
+#define GPS_BAUD        38400
+
+// ------------------------------------------------------------------------------
+// 6. AUDIO I2S
+// ------------------------------------------------------------------------------
+#define I2S_BCK         48
+#define I2S_WS          15
+#define I2S_DOUT        46
+#define I2S_MCLK        0
+
+
+#endif /* _VARIANT_H_ */
