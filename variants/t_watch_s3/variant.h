@@ -18,6 +18,12 @@
 // ------------------------------------------------------------------------------
 // 2. RADIO LORA (Semtech SX1262)
 // ------------------------------------------------------------------------------
+
+#define LORA_FREQ       868.0  
+#define LORA_BW         125.0
+#define LORA_SF         9
+#define LORA_TX_POWER   20
+
 #define LORA_MOSI       1
 #define LORA_MISO       4
 #define LORA_SCK        3
@@ -71,6 +77,21 @@
 #define I2S_WS          15
 #define I2S_DOUT        46
 #define I2S_MCLK        0
+
+// ==============================================================================
+// CONFIGURAZIONE RUOLI E CAPACITÀ MESHCORE (Aggiunte)
+// ==============================================================================
+#define ROLE_ROUTER_SUPPORTED   false
+#define ROLE_REPEATER_SUPPORTED false
+#define ROLE_CLIENT_SUPPORTED   true
+
+#define TARGET_SUPPORTS_DEEP_SLEEP true
+#define TARGET_HAS_PMU             true
+#define HAS_TFT                    true
+#define HAS_TOUCH                  true
+
+// Costante fondamentale per MyMesh.cpp
+#define MAX_GROUP_CHANNELS 8 
 
 
 #endif /* _VARIANT_H_ */
