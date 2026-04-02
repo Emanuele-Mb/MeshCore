@@ -36,35 +36,67 @@
 │   │   │           └── multibyte-paths
 │   │   └── HEAD
 │   ├── objects
+│   │   ├── 01
+│   │   │   └── 1506ebcc09cea56ae19eccc10897264d949e7e
+│   │   ├── 02
+│   │   │   └── b158caf3894d989b35c0d4e5fd492d1167fcba
 │   │   ├── 05
 │   │   │   └── c04a1ffdf2726f700e635ec9e39788db50a910
+│   │   ├── 09
+│   │   │   └── 32720fcb84cca86e11d9d3a58b4503847f9ae3
 │   │   ├── 0a
 │   │   │   └── a0ec1f164bd659f752443f1267d9bb621b3fda
 │   │   ├── 0e
-│   │   │   └── 170a77c3e9756823d0ff2d18d47e94e653a245
+│   │   │   ├── 170a77c3e9756823d0ff2d18d47e94e653a245
+│   │   │   ├── 785f4e838464aefe0ebd04c8d3db2ae3f2fc32
+│   │   │   └── fa9f3723c79389f2b3c271c6d12959aa7bef08
+│   │   ├── 11
+│   │   │   ├── 0680cd46588cc52b3087b571afaec4b42b6aa2
+│   │   │   ├── 830806b52cbb0a61e7332580f79232a371f16a
+│   │   │   └── def91a192d7e4606c303671017fd3b2fc8e834
 │   │   ├── 15
 │   │   │   ├── 9790532e6081cda5f053bcc34230f0d86a3b32
 │   │   │   └── b246924edaf6755a82daa496b5f732c19c2c74
 │   │   ├── 19
+│   │   │   ├── 708d08e332ae78ad467f2a49ac4db77e5d6cd7
 │   │   │   └── b142b10858b213e5fce09b4677b16dc9f8438b
+│   │   ├── 1a
+│   │   │   └── 24eb12e844f9e41cc02901c196a3f8c08a5e0d
 │   │   ├── 1b
-│   │   │   └── 37ccc554b2a57a9ee7b0ae3066f45edc5b079e
+│   │   │   ├── 37ccc554b2a57a9ee7b0ae3066f45edc5b079e
+│   │   │   └── 44e3fba838575e7946d86ea248c224e09157b6
+│   │   ├── 1d
+│   │   │   └── 910bcca6b97f75e7bbfb1a88d8d12b655b9d20
 │   │   ├── 1f
+│   │   │   ├── 41770a38c9c6a1e2bce3439f598375674ff0b1
 │   │   │   └── 48d2b8698c3702baf2b548bc8e987bdfe20b17
+│   │   ├── 22
+│   │   │   └── be7e63e8a7b2d918fd2310bde8729796341a24
 │   │   ├── 23
 │   │   │   └── 25973fec4e34636deceb31d428605b2b04f478
+│   │   ├── 24
+│   │   │   └── 3b466e275f0821e2ef2d3c59242401808fc522
+│   │   ├── 25
+│   │   │   └── 8b019460f0e8354d5912cbead48c803c72434b
 │   │   ├── 26
 │   │   │   └── 20f9161ecd9e8897a0b40b4247d5a6a694b776
+│   │   ├── 29
+│   │   │   └── 05dd985a3fcfe18a68f4baffe8363f14d70f90
 │   │   ├── 2b
 │   │   │   └── 5d8d91db4ac7aef6011c685e643be378d06b69
 │   │   ├── 2c
-│   │   │   └── 49510c984bc08785f35d2c66be50a0fe865543
+│   │   │   ├── 49510c984bc08785f35d2c66be50a0fe865543
+│   │   │   └── a183e80ba93d84eb6530cffb79052a5644901d
 │   │   ├── 2e
 │   │   │   └── cd573ed3d3df4c21728b56a497c4e0580a4062
 │   │   ├── 2f
 │   │   │   └── bc78e808bbb51e3752c17f8f245df1bc2ad5a7
 │   │   ├── 30
-│   │   │   └── 17c0e212652d4ac21ab8d2feab49120d54d7ac
+│   │   │   ├── 17c0e212652d4ac21ab8d2feab49120d54d7ac
+│   │   │   ├── 963231ce630766fef44727cb1519a73cd5c3ca
+│   │   │   └── a2e4f00bf5c01b81b3bbf3c578467926c361f0
+│   │   ├── 31
+│   │   │   └── 3d15798828361bbbb65f2c5445d862f2edbc16
 │   │   ├── 37
 │   │   │   └── d1a75e7c29e87d32bbe9e6a53211a77d0402ab
 │   │   ├── 3b
@@ -73,30 +105,71 @@
 │   │   ├── 3c
 │   │   │   ├── 0d1865691abd7c4aeb329b71fd3047e2f5369b
 │   │   │   └── 7328045333a065038c6d1dc0f966f1ed344c09
+│   │   ├── 3d
+│   │   │   └── 7966d65d5763d8d9f16934639621de014dadef
+│   │   ├── 3f
+│   │   │   └── 3e39954e152902c9fb0b0104f14abe18a4cae0
+│   │   ├── 41
+│   │   │   └── ef8ab14a787b8c0d7cf87698c31c6e47eb91f0
 │   │   ├── 42
 │   │   │   └── c75d84174ede473d1bd89e1617b71577e523eb
+│   │   ├── 44
+│   │   │   └── 9479ced7a5f98e6d06a4a1e6aeafae82a47be8
+│   │   ├── 46
+│   │   │   └── 44018c78ea0b8d1856da4582960c49c7184a43
 │   │   ├── 47
 │   │   │   └── a2592bc44af7101bea21150a92424d6bf6dcc8
 │   │   ├── 48
 │   │   │   └── 8dc26a4910749efdc93ebb55ed08e4466f4a5f
+│   │   ├── 4a
+│   │   │   └── 1c81abb716a6fc6199ca55a0d44b6f8c3c5109
+│   │   ├── 4b
+│   │   │   └── 2d29634c3c49ef2e1e29d4a29feca17d1d37fc
+│   │   ├── 4c
+│   │   │   └── 62d5dbf95f9b127fb07c6003cd014ba7e83862
+│   │   ├── 50
+│   │   │   └── 65d395c2c25e5934a1990f52dfc192c823981c
 │   │   ├── 51
+│   │   │   ├── 5af35b13dbf47739962d4376ccdd62a79aa48a
 │   │   │   └── 7f2f1efdf094f631999622f16589544f9e1a1b
+│   │   ├── 54
+│   │   │   └── ee20ec05a8bf7f49f245b947f1118afea9db4e
 │   │   ├── 55
+│   │   │   ├── 80abcc16af86caf8d80cb1b15ef6f4e3d737f9
 │   │   │   └── db385427b8280caec285d12f62f6543e49603c
 │   │   ├── 58
-│   │   │   └── 16f624c723c5e65c55fc130b279d54476cc009
+│   │   │   ├── 16f624c723c5e65c55fc130b279d54476cc009
+│   │   │   └── 43b4b9f527e246d5cf212a3af99a89a72180e8
+│   │   ├── 5a
+│   │   │   ├── 1cf4fa5d3370c6c105cdd61c543bf1bc62b848
+│   │   │   └── 571f0ca2690d26f55fc1b17a1599ec2305c830
+│   │   ├── 5b
+│   │   │   └── 58151b4147cbd0371c5a797d99415223a20ea2
 │   │   ├── 5c
 │   │   │   └── 14a0713e97de19b518e2cde08925e2adb0476a
 │   │   ├── 5d
 │   │   │   └── a768b9924b534cd793df1f9f7c059700da32ed
+│   │   ├── 5e
+│   │   │   └── f41f4aa1f2dd43231b25e40e3243eeeed47097
+│   │   ├── 5f
+│   │   │   └── 1359f3291b6a2852afd45bbfe97531d1a76f46
 │   │   ├── 61
 │   │   │   └── b1a2ea6730ec58c28c17b0db70ed71cf13f7b1
 │   │   ├── 66
 │   │   │   └── c2aa3ac626d98a01e179193c4c90750f933a1b
 │   │   ├── 67
 │   │   │   └── a59b29ebe081408626d7889298d1751c7314f5
+│   │   ├── 69
+│   │   │   └── ddb6239dc097f9f4eb376f9c5eb1401e91de62
+│   │   ├── 6a
+│   │   │   └── b5a3eb2a8ee0d4c29be50867d11cc0ed67370f
+│   │   ├── 6c
+│   │   │   ├── 407d9cc5a92843e8c5582993150b19b36a67b3
+│   │   │   └── 5b30dab6a53e2400aad9aab5cddfd48d08297d
 │   │   ├── 6e
 │   │   │   └── 2ad4f7b894ee05568a948e22f620393d6f4491
+│   │   ├── 6f
+│   │   │   └── b8e60b5fc855e391721e74b6e083509ceb1ffc
 │   │   ├── 71
 │   │   │   └── 04940e6c18b728bce00bd447794efbc8c9dc45
 │   │   ├── 72
@@ -109,6 +182,10 @@
 │   │   │   └── ee3802588e3bb10709d22b12512a3a579eb6e4
 │   │   ├── 76
 │   │   │   └── faeae4e5689b0b2da224237b49b1bfc1e54f05
+│   │   ├── 77
+│   │   │   └── 45ac61ba35cdee4ecea39f3934ce172a40c1dd
+│   │   ├── 78
+│   │   │   └── 29c51898a620a929a4f9753f93ea66beaca743
 │   │   ├── 79
 │   │   │   └── 2cf1f027978e5769beccfbccec533d069cbe62
 │   │   ├── 7a
@@ -116,42 +193,77 @@
 │   │   ├── 7d
 │   │   │   └── 40c3ac6958e781383531455360b314f68da869
 │   │   ├── 7f
-│   │   │   └── 1c93c77e1f7651499460b4fb09c273d8d51345
+│   │   │   ├── 1c93c77e1f7651499460b4fb09c273d8d51345
+│   │   │   ├── 7e9372e4a602a90f4c903ac525e92a537d305c
+│   │   │   └── d4275a08e44998cf7947c1f8ec65915de668a2
 │   │   ├── 82
 │   │   │   └── d3c99f1640d97f75b844affa495cdc68d68177
 │   │   ├── 85
+│   │   │   ├── 04793c23aaccc1e23c2831db23c4154de64d7f
 │   │   │   └── f3245a372693aa3372df5c1505b5c1182f125d
 │   │   ├── 86
 │   │   │   └── 37a749f70946b9534c320435290f2a7f76801d
 │   │   ├── 87
 │   │   │   ├── 69eeea09c755f7c63c9d1ed8e3936a67058f25
 │   │   │   └── 6dc9c33cee3e56f9ac63a23a058d65058051a5
+│   │   ├── 88
+│   │   │   └── 1387d20de1e60b5c49ccc0ad6e524714aeb16d
 │   │   ├── 89
 │   │   │   └── db92976fc1f19088cd363ec06d4ed1a32c1e00
+│   │   ├── 8a
+│   │   │   └── 2877f2100d0fb3043fd299d32410dc9b5a7c03
+│   │   ├── 8b
+│   │   │   └── b26709a66eb5428d63ff9885db882cdb8723e5
 │   │   ├── 8c
 │   │   │   └── ed0d168fc22dfd9fd65f2c4a562b38d22261e9
+│   │   ├── 8f
+│   │   │   └── c3c786f077bcba044126785fb3ac0608372342
 │   │   ├── 90
 │   │   │   ├── 93430db16ae08ebc10a4b3295a026461e1f478
 │   │   │   └── c5ab08b2496f7662c84e7edebae17203a82e92
+│   │   ├── 91
+│   │   │   └── f4fac1d9f6482df4933ac7db3350ba4722949f
 │   │   ├── 94
-│   │   │   └── a8ee3efa40dfbb923352f7d7d63a1c60f02f98
+│   │   │   ├── a8ee3efa40dfbb923352f7d7d63a1c60f02f98
+│   │   │   └── ad1efda10a5d9505e149afa1eaea608d0ab29f
 │   │   ├── 96
-│   │   │   └── 3eb5d90ee6f5af0dfdd5e40d96f2de93b9c808
+│   │   │   ├── 3eb5d90ee6f5af0dfdd5e40d96f2de93b9c808
+│   │   │   └── 6b9d9bc5afb3680bc6ea9778f404d7533c1a3e
+│   │   ├── 98
+│   │   │   └── c5524f60696afc7f4cf2043826f75b1af25057
+│   │   ├── 9a
+│   │   │   └── d7618022dcd4b4be5dccbff4806ee4127f07e0
 │   │   ├── 9e
+│   │   │   ├── 97b6c4b856730fe393d81c5279c1c9a8bbf882
 │   │   │   └── 9b4974f79e8975b882dfede85374d1f3a41c71
 │   │   ├── 9f
 │   │   │   └── a48d065294a8addcd42b751c0cfcb3c7a1de16
+│   │   ├── a0
+│   │   │   └── 670f542dfe3f707e6e02d3d847bb49da1d337c
+│   │   ├── a4
+│   │   │   └── 6b21f5943649347435c09c92de2dffe1c6b877
+│   │   ├── a5
+│   │   │   └── 160d253df1544fd418a8ac98e4f2c5a33d6757
 │   │   ├── a6
 │   │   │   ├── 2a2171f6d52e2c376651458afb38dd4be8c677
 │   │   │   ├── 35176a95f5ec0da2766343812a2290540ad309
+│   │   │   ├── 5dba7bd4f8178024149cad6f0cd84521b6addc
 │   │   │   ├── 8698746dc7db964e6da50ec2ebfc6f30fc4e27
 │   │   │   └── b423876f05f944ca2f34afe377a76edaeb6a24
 │   │   ├── a8
 │   │   │   └── 9ab6d958a0ee2c0db2c6fb0842356fb1bc8567
+│   │   ├── a9
+│   │   │   ├── b55f58f1611487c5cce485392b610e191a392c
+│   │   │   └── ce6516c186812d1e4e7192f15057d3a5c4cee5
+│   │   ├── ab
+│   │   │   └── 6d4c47aba84e17abd560c8ad947010b01d29ae
 │   │   ├── af
 │   │   │   └── bbf36c767351d3a763ce76cdca0bf9b99adba1
+│   │   ├── b0
+│   │   │   └── 95a28de921538f4cc5fe29891461286584b70c
 │   │   ├── b1
-│   │   │   └── a3af2a6dbcac44745a0b1feb98c37cb65ee8c4
+│   │   │   ├── a3af2a6dbcac44745a0b1feb98c37cb65ee8c4
+│   │   │   └── a84832c6c2fad639772d7a86fd621cdb311c89
 │   │   ├── b2
 │   │   │   └── 61e1f2bd7866dfe68e9645b6a8e4dad91cebf3
 │   │   ├── b3
@@ -161,48 +273,90 @@
 │   │   │   └── 2e0a39a0bd79ba9c5eca1e3386ee8c0622c7ce
 │   │   ├── b7
 │   │   │   └── 477cb50e3c10b062acb968f681edf00c55aa8b
+│   │   ├── b8
+│   │   │   └── a0f2ed09cc51f24dcd1874efc715b66f4e79aa
 │   │   ├── b9
 │   │   │   └── e5b6f07b0195bdab48bb278158da7655213b59
 │   │   ├── bb
 │   │   │   └── f97123f01339edb333e633df95c55401685c7d
 │   │   ├── bc
 │   │   │   └── 68b4cea34cc666e2de0a5b6f0fe89ddcd8ab38
+│   │   ├── bd
+│   │   │   └── eb7d805313858cd736ba5d7b2093c4d03edced
+│   │   ├── be
+│   │   │   └── ee952a42eb9dfe38c7507800840726921be207
 │   │   ├── c2
 │   │   │   └── a2e4ca02707a268c937219c867e597b89a6e9b
 │   │   ├── c3
+│   │   │   ├── 1c228744ace8d122bdd3f0c6db6557df1bcb91
 │   │   │   └── 32d56d755c95e8bb130ca54dcf092dceee6366
+│   │   ├── c4
+│   │   │   └── c516ef50eb2e94348e846d1a92360024a37e03
 │   │   ├── c6
 │   │   │   ├── 0ff97a239d4beb57232d11e66bfcb2ec69cdf0
+│   │   │   ├── 6249505786dd9f14afc7c65b73e94f599017e2
 │   │   │   └── a43470c69b835a5eee09dba9b76b07e48920ea
 │   │   ├── c7
 │   │   │   └── b8db55e61ab9098fde53103de78eec9f5f41e0
 │   │   ├── c8
-│   │   │   └── 89da9672b3ba60d9f9cecb4e95491aaf41b96c
+│   │   │   ├── 89da9672b3ba60d9f9cecb4e95491aaf41b96c
+│   │   │   └── f533bb38855898380be32fe25cf06ad400a108
 │   │   ├── cc
 │   │   │   └── 837cfbc6f42916e72ba3414a1968cffd800c47
+│   │   ├── ce
+│   │   │   ├── 36a60aa826a497e28c1e83d3ba7909ecc80eef
+│   │   │   └── 736f0207d46de6dc6a23df6955beeb69ffe5ba
 │   │   ├── cf
-│   │   │   └── 6d471276d148b838d3417cc765d51d9a6bc12a
+│   │   │   ├── 6d471276d148b838d3417cc765d51d9a6bc12a
+│   │   │   └── c1e65b3d50feeaced509e20fc0a264ed1b76cb
 │   │   ├── d1
 │   │   │   └── 5aeb08f748d68b1a73fe40b0e17c5f84d638fb
+│   │   ├── d5
+│   │   │   └── 98112ea8f4834cdcbb8cb7da1f64385aa9837f
 │   │   ├── d9
 │   │   │   └── cad61b888a736eac43d53e2557a44e63f2d10a
+│   │   ├── da
+│   │   │   └── 8201fa676a3fc9665c457fdb2f22ff9d5e267d
 │   │   ├── dd
 │   │   │   └── 214083f43e0e77f63e2df1b8485a773ba5d960
+│   │   ├── de
+│   │   │   └── 6636d0acb44280f7bd3d673608147b7d571570
+│   │   ├── e1
+│   │   │   └── 3236eb398fae900acd101f6694efccad73e4a9
 │   │   ├── e6
 │   │   │   └── 9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+│   │   ├── e9
+│   │   │   ├── 8e6eb6ffd702c5f348ca78513b02e890e49a85
+│   │   │   └── 910b68fa95c3114aae9c219176520b6bcb0512
+│   │   ├── ea
+│   │   │   └── 36f830cc0cd3c54654fc4ba73f9ceaa6c3638d
 │   │   ├── ef
-│   │   │   └── 9134969ab529e14269dc5233cb273731bb90e1
+│   │   │   ├── 9134969ab529e14269dc5233cb273731bb90e1
+│   │   │   └── c875b1b6701e0b8389f2294755787f6864a667
 │   │   ├── f2
 │   │   │   ├── 48e4f33fdf1be6dbdef1eb819c3cdac06361d9
-│   │   │   └── c6f41e327bb3756709499f291e229f76ab1e21
+│   │   │   ├── c6f41e327bb3756709499f291e229f76ab1e21
+│   │   │   └── ef9247182c7c6f5714af1a36c68dfd6cd14a96
+│   │   ├── f4
+│   │   │   ├── 9accacd44e8ea5f9d1b17bfd8aafaa87b00b7a
+│   │   │   └── dca901332a798fcb505373f0762d8ca67218b0
+│   │   ├── f5
+│   │   │   └── ceaaa6c426bda32392ccb0ba9b2b41e9580347
 │   │   ├── f6
-│   │   │   └── 338430f8bc6a2f1b057b8e38891fad9f830d9f
+│   │   │   ├── 338430f8bc6a2f1b057b8e38891fad9f830d9f
+│   │   │   └── c98a8ac4367ae986ef49546d1ddec77d540a23
+│   │   ├── f7
+│   │   │   └── 2935de8c931305df1ed37d698468a554d62600
 │   │   ├── f8
 │   │   │   └── dbdce6bb83b42920fb2f6f5a5c58f01b22c85e
 │   │   ├── f9
 │   │   │   └── a7e40a2f2ce6003eb41693201b212ab6a97dec
+│   │   ├── fa
+│   │   │   └── f68d42f3496c2c91bbdbcf8da8e26a8370c6a4
 │   │   ├── fb
 │   │   │   └── 08fc0b1ea5164b01cc600ec385b09d3f47994b
+│   │   ├── fc
+│   │   │   └── ba5fc8f7ca52283c5abb58549c0a941314185e
 │   │   ├── fd
 │   │   │   └── 9716631ebe39a4a4b3dd9b31cfebc3215ad9ea
 │   │   ├── fe
@@ -212,6 +366,9 @@
 │   │       ├── pack-29db2915c54939f605f1c3cc4b53cd82d3d29d5b.idx
 │   │       ├── pack-29db2915c54939f605f1c3cc4b53cd82d3d29d5b.pack
 │   │       ├── pack-29db2915c54939f605f1c3cc4b53cd82d3d29d5b.rev
+│   │       ├── pack-2f6f73b5c534b9376b1c00e4d79e1390f6a69e7d.idx
+│   │       ├── pack-2f6f73b5c534b9376b1c00e4d79e1390f6a69e7d.pack
+│   │       ├── pack-2f6f73b5c534b9376b1c00e4d79e1390f6a69e7d.rev
 │   │       ├── pack-7ef43bb6bb0e32907a425aea45d5321f0d2dcd43.idx
 │   │       ├── pack-7ef43bb6bb0e32907a425aea45d5321f0d2dcd43.pack
 │   │       └── pack-7ef43bb6bb0e32907a425aea45d5321f0d2dcd43.rev
@@ -324,6 +481,7 @@
 │   ├── COMMIT_EDITMSG
 │   ├── FETCH_HEAD
 │   ├── HEAD
+│   ├── ORIG_HEAD
 │   ├── config
 │   ├── description
 │   ├── index
@@ -341,17 +499,982 @@
 ├── .pio
 │   ├── build
 │   │   ├── t-watch-s3
-│   │   │   ├── FrameworkArduinoVariant
-│   │   │   │   ├── target.cpp.d
-│   │   │   │   ├── target.cpp.o
-│   │   │   │   ├── variant.cpp.d
-│   │   │   │   └── variant.cpp.o
+│   │   │   ├── FrameworkArduino
+│   │   │   │   ├── libb64
+│   │   │   │   │   ├── cdecode.c.d
+│   │   │   │   │   ├── cdecode.c.o
+│   │   │   │   │   ├── cencode.c.d
+│   │   │   │   │   └── cencode.c.o
+│   │   │   │   ├── Esp.cpp.d
+│   │   │   │   ├── Esp.cpp.o
+│   │   │   │   ├── FirmwareMSC.cpp.d
+│   │   │   │   ├── FirmwareMSC.cpp.o
+│   │   │   │   ├── FunctionalInterrupt.cpp.d
+│   │   │   │   ├── FunctionalInterrupt.cpp.o
+│   │   │   │   ├── HWCDC.cpp.d
+│   │   │   │   ├── HWCDC.cpp.o
+│   │   │   │   ├── HardwareSerial.cpp.d
+│   │   │   │   ├── HardwareSerial.cpp.o
+│   │   │   │   ├── IPAddress.cpp.d
+│   │   │   │   ├── IPAddress.cpp.o
+│   │   │   │   ├── IPv6Address.cpp.d
+│   │   │   │   ├── IPv6Address.cpp.o
+│   │   │   │   ├── MD5Builder.cpp.d
+│   │   │   │   ├── MD5Builder.cpp.o
+│   │   │   │   ├── Print.cpp.d
+│   │   │   │   ├── Print.cpp.o
+│   │   │   │   ├── Stream.cpp.d
+│   │   │   │   ├── Stream.cpp.o
+│   │   │   │   ├── StreamString.cpp.d
+│   │   │   │   ├── StreamString.cpp.o
+│   │   │   │   ├── Tone.cpp.d
+│   │   │   │   ├── Tone.cpp.o
+│   │   │   │   ├── USB.cpp.d
+│   │   │   │   ├── USB.cpp.o
+│   │   │   │   ├── USBCDC.cpp.d
+│   │   │   │   ├── USBCDC.cpp.o
+│   │   │   │   ├── USBMSC.cpp.d
+│   │   │   │   ├── USBMSC.cpp.o
+│   │   │   │   ├── WMath.cpp.d
+│   │   │   │   ├── WMath.cpp.o
+│   │   │   │   ├── WString.cpp.d
+│   │   │   │   ├── WString.cpp.o
+│   │   │   │   ├── base64.cpp.d
+│   │   │   │   ├── base64.cpp.o
+│   │   │   │   ├── cbuf.cpp.d
+│   │   │   │   ├── cbuf.cpp.o
+│   │   │   │   ├── esp32-hal-adc.c.d
+│   │   │   │   ├── esp32-hal-adc.c.o
+│   │   │   │   ├── esp32-hal-bt.c.d
+│   │   │   │   ├── esp32-hal-bt.c.o
+│   │   │   │   ├── esp32-hal-cpu.c.d
+│   │   │   │   ├── esp32-hal-cpu.c.o
+│   │   │   │   ├── esp32-hal-dac.c.d
+│   │   │   │   ├── esp32-hal-dac.c.o
+│   │   │   │   ├── esp32-hal-gpio.c.d
+│   │   │   │   ├── esp32-hal-gpio.c.o
+│   │   │   │   ├── esp32-hal-i2c-slave.c.d
+│   │   │   │   ├── esp32-hal-i2c-slave.c.o
+│   │   │   │   ├── esp32-hal-i2c.c.d
+│   │   │   │   ├── esp32-hal-i2c.c.o
+│   │   │   │   ├── esp32-hal-ledc.c.d
+│   │   │   │   ├── esp32-hal-ledc.c.o
+│   │   │   │   ├── esp32-hal-matrix.c.d
+│   │   │   │   ├── esp32-hal-matrix.c.o
+│   │   │   │   ├── esp32-hal-misc.c.d
+│   │   │   │   ├── esp32-hal-misc.c.o
+│   │   │   │   ├── esp32-hal-psram.c.d
+│   │   │   │   ├── esp32-hal-psram.c.o
+│   │   │   │   ├── esp32-hal-rgb-led.c.d
+│   │   │   │   ├── esp32-hal-rgb-led.c.o
+│   │   │   │   ├── esp32-hal-rmt.c.d
+│   │   │   │   ├── esp32-hal-rmt.c.o
+│   │   │   │   ├── esp32-hal-sigmadelta.c.d
+│   │   │   │   ├── esp32-hal-sigmadelta.c.o
+│   │   │   │   ├── esp32-hal-spi.c.d
+│   │   │   │   ├── esp32-hal-spi.c.o
+│   │   │   │   ├── esp32-hal-time.c.d
+│   │   │   │   ├── esp32-hal-time.c.o
+│   │   │   │   ├── esp32-hal-timer.c.d
+│   │   │   │   ├── esp32-hal-timer.c.o
+│   │   │   │   ├── esp32-hal-tinyusb.c.d
+│   │   │   │   ├── esp32-hal-tinyusb.c.o
+│   │   │   │   ├── esp32-hal-touch.c.d
+│   │   │   │   ├── esp32-hal-touch.c.o
+│   │   │   │   ├── esp32-hal-uart.c.d
+│   │   │   │   ├── esp32-hal-uart.c.o
+│   │   │   │   ├── firmware_msc_fat.c.d
+│   │   │   │   ├── firmware_msc_fat.c.o
+│   │   │   │   ├── main.cpp.d
+│   │   │   │   ├── main.cpp.o
+│   │   │   │   ├── stdlib_noniso.c.d
+│   │   │   │   ├── stdlib_noniso.c.o
+│   │   │   │   ├── wiring_pulse.c.d
+│   │   │   │   ├── wiring_pulse.c.o
+│   │   │   │   ├── wiring_shift.c.d
+│   │   │   │   └── wiring_shift.c.o
 │   │   │   ├── examples
 │   │   │   │   └── companion_radio
 │   │   │   │       ├── DataStore.cpp.d
 │   │   │   │       ├── DataStore.cpp.o
 │   │   │   │       ├── MyMesh.cpp.d
-│   │   │   │       └── main.cpp.d
+│   │   │   │       ├── MyMesh.cpp.o
+│   │   │   │       ├── main.cpp.d
+│   │   │   │       └── main.cpp.o
+│   │   │   ├── lib200
+│   │   │   │   ├── SPI
+│   │   │   │   │   ├── SPI.cpp.d
+│   │   │   │   │   └── SPI.cpp.o
+│   │   │   │   └── libSPI.a
+│   │   │   ├── lib245
+│   │   │   │   ├── RTClib
+│   │   │   │   │   ├── RTC_DS1307.cpp.d
+│   │   │   │   │   ├── RTC_DS1307.cpp.o
+│   │   │   │   │   ├── RTC_DS3231.cpp.d
+│   │   │   │   │   ├── RTC_DS3231.cpp.o
+│   │   │   │   │   ├── RTC_Micros.cpp.d
+│   │   │   │   │   ├── RTC_Micros.cpp.o
+│   │   │   │   │   ├── RTC_Millis.cpp.d
+│   │   │   │   │   ├── RTC_Millis.cpp.o
+│   │   │   │   │   ├── RTC_PCF8523.cpp.d
+│   │   │   │   │   ├── RTC_PCF8523.cpp.o
+│   │   │   │   │   ├── RTC_PCF8563.cpp.d
+│   │   │   │   │   ├── RTC_PCF8563.cpp.o
+│   │   │   │   │   ├── RTClib.cpp.d
+│   │   │   │   │   └── RTClib.cpp.o
+│   │   │   │   └── libRTClib.a
+│   │   │   ├── lib338
+│   │   │   │   ├── XPowersLib
+│   │   │   │   │   ├── XPowersLibInterface.cpp.d
+│   │   │   │   │   └── XPowersLibInterface.cpp.o
+│   │   │   │   └── libXPowersLib.a
+│   │   │   ├── lib434
+│   │   │   │   ├── NimBLE-Arduino
+│   │   │   │   │   ├── nimble
+│   │   │   │   │   │   ├── esp_port
+│   │   │   │   │   │   │   ├── esp-hci
+│   │   │   │   │   │   │   │   └── src
+│   │   │   │   │   │   │   │       ├── esp_nimble_hci.c.d
+│   │   │   │   │   │   │   │       ├── esp_nimble_hci.c.o
+│   │   │   │   │   │   │   │       ├── na_hci_driver.c.d
+│   │   │   │   │   │   │   │       ├── na_hci_driver.c.o
+│   │   │   │   │   │   │   │       ├── na_hci_transport.c.d
+│   │   │   │   │   │   │   │       └── na_hci_transport.c.o
+│   │   │   │   │   │   │   └── port
+│   │   │   │   │   │   │       └── src
+│   │   │   │   │   │   │           ├── exp_nimble_mem.c.d
+│   │   │   │   │   │   │           └── exp_nimble_mem.c.o
+│   │   │   │   │   │   ├── ext
+│   │   │   │   │   │   │   └── tinycrypt
+│   │   │   │   │   │   │       └── src
+│   │   │   │   │   │   │           ├── aes_decrypt.c.d
+│   │   │   │   │   │   │           ├── aes_decrypt.c.o
+│   │   │   │   │   │   │           ├── aes_encrypt.c.d
+│   │   │   │   │   │   │           ├── aes_encrypt.c.o
+│   │   │   │   │   │   │           ├── cbc_mode.c.d
+│   │   │   │   │   │   │           ├── cbc_mode.c.o
+│   │   │   │   │   │   │           ├── ccm_mode.c.d
+│   │   │   │   │   │   │           ├── ccm_mode.c.o
+│   │   │   │   │   │   │           ├── cmac_mode.c.d
+│   │   │   │   │   │   │           ├── cmac_mode.c.o
+│   │   │   │   │   │   │           ├── ctr_mode.c.d
+│   │   │   │   │   │   │           ├── ctr_mode.c.o
+│   │   │   │   │   │   │           ├── ctr_prng.c.d
+│   │   │   │   │   │   │           ├── ctr_prng.c.o
+│   │   │   │   │   │   │           ├── ecc.c.d
+│   │   │   │   │   │   │           ├── ecc.c.o
+│   │   │   │   │   │   │           ├── ecc_dh.c.d
+│   │   │   │   │   │   │           ├── ecc_dh.c.o
+│   │   │   │   │   │   │           ├── ecc_dsa.c.d
+│   │   │   │   │   │   │           ├── ecc_dsa.c.o
+│   │   │   │   │   │   │           ├── ecc_platform_specific.c.d
+│   │   │   │   │   │   │           ├── ecc_platform_specific.c.o
+│   │   │   │   │   │   │           ├── hmac.c.d
+│   │   │   │   │   │   │           ├── hmac.c.o
+│   │   │   │   │   │   │           ├── hmac_prng.c.d
+│   │   │   │   │   │   │           ├── hmac_prng.c.o
+│   │   │   │   │   │   │           ├── sha256.c.d
+│   │   │   │   │   │   │           ├── sha256.c.o
+│   │   │   │   │   │   │           ├── utils.c.d
+│   │   │   │   │   │   │           └── utils.c.o
+│   │   │   │   │   │   ├── nimble
+│   │   │   │   │   │   │   ├── controller
+│   │   │   │   │   │   │   │   └── src
+│   │   │   │   │   │   │   │       ├── ble_ll.c.d
+│   │   │   │   │   │   │   │       ├── ble_ll.c.o
+│   │   │   │   │   │   │   │       ├── ble_ll_adv.c.d
+│   │   │   │   │   │   │   │       ├── ble_ll_adv.c.o
+│   │   │   │   │   │   │   │       ├── ble_ll_conn.c.d
+│   │   │   │   │   │   │   │       ├── ble_ll_conn.c.o
+│   │   │   │   │   │   │   │       ├── ble_ll_conn_hci.c.d
+│   │   │   │   │   │   │   │       ├── ble_ll_conn_hci.c.o
+│   │   │   │   │   │   │   │       ├── ble_ll_crypto.c.d
+│   │   │   │   │   │   │   │       ├── ble_ll_crypto.c.o
+│   │   │   │   │   │   │   │       ├── ble_ll_ctrl.c.d
+│   │   │   │   │   │   │   │       ├── ble_ll_ctrl.c.o
+│   │   │   │   │   │   │   │       ├── ble_ll_dtm.c.d
+│   │   │   │   │   │   │   │       ├── ble_ll_dtm.c.o
+│   │   │   │   │   │   │   │       ├── ble_ll_hci.c.d
+│   │   │   │   │   │   │   │       ├── ble_ll_hci.c.o
+│   │   │   │   │   │   │   │       ├── ble_ll_hci_ev.c.d
+│   │   │   │   │   │   │   │       ├── ble_ll_hci_ev.c.o
+│   │   │   │   │   │   │   │       ├── ble_ll_hci_supp_cmd.c.d
+│   │   │   │   │   │   │   │       ├── ble_ll_hci_supp_cmd.c.o
+│   │   │   │   │   │   │   │       ├── ble_ll_hci_vs.c.d
+│   │   │   │   │   │   │   │       ├── ble_ll_hci_vs.c.o
+│   │   │   │   │   │   │   │       ├── ble_ll_iso.c.d
+│   │   │   │   │   │   │   │       ├── ble_ll_iso.c.o
+│   │   │   │   │   │   │   │       ├── ble_ll_iso_big.c.d
+│   │   │   │   │   │   │   │       ├── ble_ll_iso_big.c.o
+│   │   │   │   │   │   │   │       ├── ble_ll_isoal.c.d
+│   │   │   │   │   │   │   │       ├── ble_ll_isoal.c.o
+│   │   │   │   │   │   │   │       ├── ble_ll_pdu.c.d
+│   │   │   │   │   │   │   │       ├── ble_ll_pdu.c.o
+│   │   │   │   │   │   │   │       ├── ble_ll_rand.c.d
+│   │   │   │   │   │   │   │       ├── ble_ll_rand.c.o
+│   │   │   │   │   │   │   │       ├── ble_ll_resolv.c.d
+│   │   │   │   │   │   │   │       ├── ble_ll_resolv.c.o
+│   │   │   │   │   │   │   │       ├── ble_ll_rfmgmt.c.d
+│   │   │   │   │   │   │   │       ├── ble_ll_rfmgmt.c.o
+│   │   │   │   │   │   │   │       ├── ble_ll_scan.c.d
+│   │   │   │   │   │   │   │       ├── ble_ll_scan.c.o
+│   │   │   │   │   │   │   │       ├── ble_ll_scan_aux.c.d
+│   │   │   │   │   │   │   │       ├── ble_ll_scan_aux.c.o
+│   │   │   │   │   │   │   │       ├── ble_ll_sched.c.d
+│   │   │   │   │   │   │   │       ├── ble_ll_sched.c.o
+│   │   │   │   │   │   │   │       ├── ble_ll_sync.c.d
+│   │   │   │   │   │   │   │       ├── ble_ll_sync.c.o
+│   │   │   │   │   │   │   │       ├── ble_ll_trace.c.d
+│   │   │   │   │   │   │   │       ├── ble_ll_trace.c.o
+│   │   │   │   │   │   │   │       ├── ble_ll_utils.c.d
+│   │   │   │   │   │   │   │       ├── ble_ll_utils.c.o
+│   │   │   │   │   │   │   │       ├── ble_ll_whitelist.c.d
+│   │   │   │   │   │   │   │       └── ble_ll_whitelist.c.o
+│   │   │   │   │   │   │   ├── drivers
+│   │   │   │   │   │   │   │   ├── nrf51
+│   │   │   │   │   │   │   │   │   └── src
+│   │   │   │   │   │   │   │   │       ├── ble_hw.c.d
+│   │   │   │   │   │   │   │   │       ├── ble_hw.c.o
+│   │   │   │   │   │   │   │   │       ├── ble_phy.c.d
+│   │   │   │   │   │   │   │   │       └── ble_phy.c.o
+│   │   │   │   │   │   │   │   └── nrf5x
+│   │   │   │   │   │   │   │       └── src
+│   │   │   │   │   │   │   │           ├── nrf52
+│   │   │   │   │   │   │   │           │   ├── phy.c.d
+│   │   │   │   │   │   │   │           │   └── phy.c.o
+│   │   │   │   │   │   │   │           ├── nrf53
+│   │   │   │   │   │   │   │           │   ├── phy.c.d
+│   │   │   │   │   │   │   │           │   └── phy.c.o
+│   │   │   │   │   │   │   │           ├── ble_hw.c.d
+│   │   │   │   │   │   │   │           ├── ble_hw.c.o
+│   │   │   │   │   │   │   │           ├── ble_phy.c.d
+│   │   │   │   │   │   │   │           ├── ble_phy.c.o
+│   │   │   │   │   │   │   │           ├── ble_phy_trace.c.d
+│   │   │   │   │   │   │   │           └── ble_phy_trace.c.o
+│   │   │   │   │   │   │   ├── host
+│   │   │   │   │   │   │   │   ├── mesh
+│   │   │   │   │   │   │   │   │   └── src
+│   │   │   │   │   │   │   │   │       ├── access.c.d
+│   │   │   │   │   │   │   │   │       ├── access.c.o
+│   │   │   │   │   │   │   │   │       ├── adv.c.d
+│   │   │   │   │   │   │   │   │       ├── adv.c.o
+│   │   │   │   │   │   │   │   │       ├── adv_ext.c.d
+│   │   │   │   │   │   │   │   │       ├── adv_ext.c.o
+│   │   │   │   │   │   │   │   │       ├── adv_legacy.c.d
+│   │   │   │   │   │   │   │   │       ├── adv_legacy.c.o
+│   │   │   │   │   │   │   │   │       ├── aes-ccm.c.d
+│   │   │   │   │   │   │   │   │       ├── aes-ccm.c.o
+│   │   │   │   │   │   │   │   │       ├── app_keys.c.d
+│   │   │   │   │   │   │   │   │       ├── app_keys.c.o
+│   │   │   │   │   │   │   │   │       ├── beacon.c.d
+│   │   │   │   │   │   │   │   │       ├── beacon.c.o
+│   │   │   │   │   │   │   │   │       ├── cdb.c.d
+│   │   │   │   │   │   │   │   │       ├── cdb.c.o
+│   │   │   │   │   │   │   │   │       ├── cfg.c.d
+│   │   │   │   │   │   │   │   │       ├── cfg.c.o
+│   │   │   │   │   │   │   │   │       ├── cfg_cli.c.d
+│   │   │   │   │   │   │   │   │       ├── cfg_cli.c.o
+│   │   │   │   │   │   │   │   │       ├── cfg_srv.c.d
+│   │   │   │   │   │   │   │   │       ├── cfg_srv.c.o
+│   │   │   │   │   │   │   │   │       ├── crypto.c.d
+│   │   │   │   │   │   │   │   │       ├── crypto.c.o
+│   │   │   │   │   │   │   │   │       ├── friend.c.d
+│   │   │   │   │   │   │   │   │       ├── friend.c.o
+│   │   │   │   │   │   │   │   │       ├── glue.c.d
+│   │   │   │   │   │   │   │   │       ├── glue.c.o
+│   │   │   │   │   │   │   │   │       ├── health_cli.c.d
+│   │   │   │   │   │   │   │   │       ├── health_cli.c.o
+│   │   │   │   │   │   │   │   │       ├── health_srv.c.d
+│   │   │   │   │   │   │   │   │       ├── health_srv.c.o
+│   │   │   │   │   │   │   │   │       ├── heartbeat.c.d
+│   │   │   │   │   │   │   │   │       ├── heartbeat.c.o
+│   │   │   │   │   │   │   │   │       ├── light_model.c.d
+│   │   │   │   │   │   │   │   │       ├── light_model.c.o
+│   │   │   │   │   │   │   │   │       ├── lpn.c.d
+│   │   │   │   │   │   │   │   │       ├── lpn.c.o
+│   │   │   │   │   │   │   │   │       ├── mesh.c.d
+│   │   │   │   │   │   │   │   │       ├── mesh.c.o
+│   │   │   │   │   │   │   │   │       ├── model_cli.c.d
+│   │   │   │   │   │   │   │   │       ├── model_cli.c.o
+│   │   │   │   │   │   │   │   │       ├── model_srv.c.d
+│   │   │   │   │   │   │   │   │       ├── model_srv.c.o
+│   │   │   │   │   │   │   │   │       ├── msg.c.d
+│   │   │   │   │   │   │   │   │       ├── msg.c.o
+│   │   │   │   │   │   │   │   │       ├── net.c.d
+│   │   │   │   │   │   │   │   │       ├── net.c.o
+│   │   │   │   │   │   │   │   │       ├── pb_adv.c.d
+│   │   │   │   │   │   │   │   │       ├── pb_adv.c.o
+│   │   │   │   │   │   │   │   │       ├── pb_gatt.c.d
+│   │   │   │   │   │   │   │   │       ├── pb_gatt.c.o
+│   │   │   │   │   │   │   │   │       ├── pb_gatt_srv.c.d
+│   │   │   │   │   │   │   │   │       ├── pb_gatt_srv.c.o
+│   │   │   │   │   │   │   │   │       ├── prov.c.d
+│   │   │   │   │   │   │   │   │       ├── prov.c.o
+│   │   │   │   │   │   │   │   │       ├── prov_device.c.d
+│   │   │   │   │   │   │   │   │       ├── prov_device.c.o
+│   │   │   │   │   │   │   │   │       ├── provisioner.c.d
+│   │   │   │   │   │   │   │   │       ├── provisioner.c.o
+│   │   │   │   │   │   │   │   │       ├── proxy.c.d
+│   │   │   │   │   │   │   │   │       ├── proxy.c.o
+│   │   │   │   │   │   │   │   │       ├── proxy_msg.c.d
+│   │   │   │   │   │   │   │   │       ├── proxy_msg.c.o
+│   │   │   │   │   │   │   │   │       ├── proxy_srv.c.d
+│   │   │   │   │   │   │   │   │       ├── proxy_srv.c.o
+│   │   │   │   │   │   │   │   │       ├── rpl.c.d
+│   │   │   │   │   │   │   │   │       ├── rpl.c.o
+│   │   │   │   │   │   │   │   │       ├── settings.c.d
+│   │   │   │   │   │   │   │   │       ├── settings.c.o
+│   │   │   │   │   │   │   │   │       ├── shell.c.d
+│   │   │   │   │   │   │   │   │       ├── shell.c.o
+│   │   │   │   │   │   │   │   │       ├── subnet.c.d
+│   │   │   │   │   │   │   │   │       ├── subnet.c.o
+│   │   │   │   │   │   │   │   │       ├── testing.c.d
+│   │   │   │   │   │   │   │   │       ├── testing.c.o
+│   │   │   │   │   │   │   │   │       ├── transport.c.d
+│   │   │   │   │   │   │   │   │       └── transport.c.o
+│   │   │   │   │   │   │   │   ├── services
+│   │   │   │   │   │   │   │   │   ├── gap
+│   │   │   │   │   │   │   │   │   │   └── src
+│   │   │   │   │   │   │   │   │   │       ├── ble_svc_gap.c.d
+│   │   │   │   │   │   │   │   │   │       └── ble_svc_gap.c.o
+│   │   │   │   │   │   │   │   │   └── gatt
+│   │   │   │   │   │   │   │   │       └── src
+│   │   │   │   │   │   │   │   │           ├── ble_svc_gatt.c.d
+│   │   │   │   │   │   │   │   │           └── ble_svc_gatt.c.o
+│   │   │   │   │   │   │   │   ├── src
+│   │   │   │   │   │   │   │   │   ├── ble_aes_ccm.c.d
+│   │   │   │   │   │   │   │   │   ├── ble_aes_ccm.c.o
+│   │   │   │   │   │   │   │   │   ├── ble_att.c.d
+│   │   │   │   │   │   │   │   │   ├── ble_att.c.o
+│   │   │   │   │   │   │   │   │   ├── ble_att_clt.c.d
+│   │   │   │   │   │   │   │   │   ├── ble_att_clt.c.o
+│   │   │   │   │   │   │   │   │   ├── ble_att_cmd.c.d
+│   │   │   │   │   │   │   │   │   ├── ble_att_cmd.c.o
+│   │   │   │   │   │   │   │   │   ├── ble_att_svr.c.d
+│   │   │   │   │   │   │   │   │   ├── ble_att_svr.c.o
+│   │   │   │   │   │   │   │   │   ├── ble_dtm.c.d
+│   │   │   │   │   │   │   │   │   ├── ble_dtm.c.o
+│   │   │   │   │   │   │   │   │   ├── ble_ead.c.d
+│   │   │   │   │   │   │   │   │   ├── ble_ead.c.o
+│   │   │   │   │   │   │   │   │   ├── ble_eatt.c.d
+│   │   │   │   │   │   │   │   │   ├── ble_eatt.c.o
+│   │   │   │   │   │   │   │   │   ├── ble_eddystone.c.d
+│   │   │   │   │   │   │   │   │   ├── ble_eddystone.c.o
+│   │   │   │   │   │   │   │   │   ├── ble_gap.c.d
+│   │   │   │   │   │   │   │   │   ├── ble_gap.c.o
+│   │   │   │   │   │   │   │   │   ├── ble_gattc.c.d
+│   │   │   │   │   │   │   │   │   ├── ble_gattc.c.o
+│   │   │   │   │   │   │   │   │   ├── ble_gattc_cache.c.d
+│   │   │   │   │   │   │   │   │   ├── ble_gattc_cache.c.o
+│   │   │   │   │   │   │   │   │   ├── ble_gattc_cache_conn.c.d
+│   │   │   │   │   │   │   │   │   ├── ble_gattc_cache_conn.c.o
+│   │   │   │   │   │   │   │   │   ├── ble_gatts.c.d
+│   │   │   │   │   │   │   │   │   ├── ble_gatts.c.o
+│   │   │   │   │   │   │   │   │   ├── ble_gatts_lcl.c.d
+│   │   │   │   │   │   │   │   │   ├── ble_gatts_lcl.c.o
+│   │   │   │   │   │   │   │   │   ├── ble_hs.c.d
+│   │   │   │   │   │   │   │   │   ├── ble_hs.c.o
+│   │   │   │   │   │   │   │   │   ├── ble_hs_adv.c.d
+│   │   │   │   │   │   │   │   │   ├── ble_hs_adv.c.o
+│   │   │   │   │   │   │   │   │   ├── ble_hs_atomic.c.d
+│   │   │   │   │   │   │   │   │   ├── ble_hs_atomic.c.o
+│   │   │   │   │   │   │   │   │   ├── ble_hs_cfg.c.d
+│   │   │   │   │   │   │   │   │   ├── ble_hs_cfg.c.o
+│   │   │   │   │   │   │   │   │   ├── ble_hs_conn.c.d
+│   │   │   │   │   │   │   │   │   ├── ble_hs_conn.c.o
+│   │   │   │   │   │   │   │   │   ├── ble_hs_flow.c.d
+│   │   │   │   │   │   │   │   │   ├── ble_hs_flow.c.o
+│   │   │   │   │   │   │   │   │   ├── ble_hs_hci.c.d
+│   │   │   │   │   │   │   │   │   ├── ble_hs_hci.c.o
+│   │   │   │   │   │   │   │   │   ├── ble_hs_hci_cmd.c.d
+│   │   │   │   │   │   │   │   │   ├── ble_hs_hci_cmd.c.o
+│   │   │   │   │   │   │   │   │   ├── ble_hs_hci_evt.c.d
+│   │   │   │   │   │   │   │   │   ├── ble_hs_hci_evt.c.o
+│   │   │   │   │   │   │   │   │   ├── ble_hs_hci_util.c.d
+│   │   │   │   │   │   │   │   │   ├── ble_hs_hci_util.c.o
+│   │   │   │   │   │   │   │   │   ├── ble_hs_id.c.d
+│   │   │   │   │   │   │   │   │   ├── ble_hs_id.c.o
+│   │   │   │   │   │   │   │   │   ├── ble_hs_log.c.d
+│   │   │   │   │   │   │   │   │   ├── ble_hs_log.c.o
+│   │   │   │   │   │   │   │   │   ├── ble_hs_mbuf.c.d
+│   │   │   │   │   │   │   │   │   ├── ble_hs_mbuf.c.o
+│   │   │   │   │   │   │   │   │   ├── ble_hs_misc.c.d
+│   │   │   │   │   │   │   │   │   ├── ble_hs_misc.c.o
+│   │   │   │   │   │   │   │   │   ├── ble_hs_mqueue.c.d
+│   │   │   │   │   │   │   │   │   ├── ble_hs_mqueue.c.o
+│   │   │   │   │   │   │   │   │   ├── ble_hs_periodic_sync.c.d
+│   │   │   │   │   │   │   │   │   ├── ble_hs_periodic_sync.c.o
+│   │   │   │   │   │   │   │   │   ├── ble_hs_pvcy.c.d
+│   │   │   │   │   │   │   │   │   ├── ble_hs_pvcy.c.o
+│   │   │   │   │   │   │   │   │   ├── ble_hs_resolv.c.d
+│   │   │   │   │   │   │   │   │   ├── ble_hs_resolv.c.o
+│   │   │   │   │   │   │   │   │   ├── ble_hs_shutdown.c.d
+│   │   │   │   │   │   │   │   │   ├── ble_hs_shutdown.c.o
+│   │   │   │   │   │   │   │   │   ├── ble_hs_startup.c.d
+│   │   │   │   │   │   │   │   │   ├── ble_hs_startup.c.o
+│   │   │   │   │   │   │   │   │   ├── ble_hs_stop.c.d
+│   │   │   │   │   │   │   │   │   ├── ble_hs_stop.c.o
+│   │   │   │   │   │   │   │   │   ├── ble_ibeacon.c.d
+│   │   │   │   │   │   │   │   │   ├── ble_ibeacon.c.o
+│   │   │   │   │   │   │   │   │   ├── ble_l2cap.c.d
+│   │   │   │   │   │   │   │   │   ├── ble_l2cap.c.o
+│   │   │   │   │   │   │   │   │   ├── ble_l2cap_coc.c.d
+│   │   │   │   │   │   │   │   │   ├── ble_l2cap_coc.c.o
+│   │   │   │   │   │   │   │   │   ├── ble_l2cap_sig.c.d
+│   │   │   │   │   │   │   │   │   ├── ble_l2cap_sig.c.o
+│   │   │   │   │   │   │   │   │   ├── ble_l2cap_sig_cmd.c.d
+│   │   │   │   │   │   │   │   │   ├── ble_l2cap_sig_cmd.c.o
+│   │   │   │   │   │   │   │   │   ├── ble_sm.c.d
+│   │   │   │   │   │   │   │   │   ├── ble_sm.c.o
+│   │   │   │   │   │   │   │   │   ├── ble_sm_alg.c.d
+│   │   │   │   │   │   │   │   │   ├── ble_sm_alg.c.o
+│   │   │   │   │   │   │   │   │   ├── ble_sm_cmd.c.d
+│   │   │   │   │   │   │   │   │   ├── ble_sm_cmd.c.o
+│   │   │   │   │   │   │   │   │   ├── ble_sm_lgcy.c.d
+│   │   │   │   │   │   │   │   │   ├── ble_sm_lgcy.c.o
+│   │   │   │   │   │   │   │   │   ├── ble_sm_sc.c.d
+│   │   │   │   │   │   │   │   │   ├── ble_sm_sc.c.o
+│   │   │   │   │   │   │   │   │   ├── ble_store.c.d
+│   │   │   │   │   │   │   │   │   ├── ble_store.c.o
+│   │   │   │   │   │   │   │   │   ├── ble_store_util.c.d
+│   │   │   │   │   │   │   │   │   ├── ble_store_util.c.o
+│   │   │   │   │   │   │   │   │   ├── ble_uuid.c.d
+│   │   │   │   │   │   │   │   │   └── ble_uuid.c.o
+│   │   │   │   │   │   │   │   ├── store
+│   │   │   │   │   │   │   │   │   ├── config
+│   │   │   │   │   │   │   │   │   │   └── src
+│   │   │   │   │   │   │   │   │   │       ├── ble_store_config.c.d
+│   │   │   │   │   │   │   │   │   │       ├── ble_store_config.c.o
+│   │   │   │   │   │   │   │   │   │       ├── ble_store_config_conf.c.d
+│   │   │   │   │   │   │   │   │   │       ├── ble_store_config_conf.c.o
+│   │   │   │   │   │   │   │   │   │       ├── ble_store_nvs.c.d
+│   │   │   │   │   │   │   │   │   │       └── ble_store_nvs.c.o
+│   │   │   │   │   │   │   │   │   └── ram
+│   │   │   │   │   │   │   │   │       └── src
+│   │   │   │   │   │   │   │   │           ├── ble_store_ram.c.d
+│   │   │   │   │   │   │   │   │           └── ble_store_ram.c.o
+│   │   │   │   │   │   │   │   └── util
+│   │   │   │   │   │   │   │       └── src
+│   │   │   │   │   │   │   │           ├── addr.c.d
+│   │   │   │   │   │   │   │           └── addr.c.o
+│   │   │   │   │   │   │   └── transport
+│   │   │   │   │   │   │       ├── common
+│   │   │   │   │   │   │       │   ├── hci_h4
+│   │   │   │   │   │   │       │   │   └── src
+│   │   │   │   │   │   │       │   │       ├── hci_h4.c.d
+│   │   │   │   │   │   │       │   │       └── hci_h4.c.o
+│   │   │   │   │   │   │       │   └── hci_ipc
+│   │   │   │   │   │   │       │       └── src
+│   │   │   │   │   │   │       │           ├── hci_ipc.c.d
+│   │   │   │   │   │   │       │           └── hci_ipc.c.o
+│   │   │   │   │   │   │       ├── esp_ipc
+│   │   │   │   │   │   │       │   └── src
+│   │   │   │   │   │   │       │       ├── hci_esp_ipc.c.d
+│   │   │   │   │   │   │       │       └── hci_esp_ipc.c.o
+│   │   │   │   │   │   │       ├── esp_ipc_legacy
+│   │   │   │   │   │   │       │   └── src
+│   │   │   │   │   │   │       │       ├── hci_esp_ipc_legacy.c.d
+│   │   │   │   │   │   │       │       └── hci_esp_ipc_legacy.c.o
+│   │   │   │   │   │   │       ├── nrf5340
+│   │   │   │   │   │   │       │   └── src
+│   │   │   │   │   │   │       │       ├── nrf5340_ble_hci.c.d
+│   │   │   │   │   │   │       │       └── nrf5340_ble_hci.c.o
+│   │   │   │   │   │   │       └── src
+│   │   │   │   │   │   │           ├── transport.c.d
+│   │   │   │   │   │   │           └── transport.c.o
+│   │   │   │   │   │   └── porting
+│   │   │   │   │   │       ├── nimble
+│   │   │   │   │   │       │   └── src
+│   │   │   │   │   │       │       ├── endian.c.d
+│   │   │   │   │   │       │       ├── endian.c.o
+│   │   │   │   │   │       │       ├── hal_timer.c.d
+│   │   │   │   │   │       │       ├── hal_timer.c.o
+│   │   │   │   │   │       │       ├── mem.c.d
+│   │   │   │   │   │       │       ├── mem.c.o
+│   │   │   │   │   │       │       ├── nimble_port.c.d
+│   │   │   │   │   │       │       ├── nimble_port.c.o
+│   │   │   │   │   │       │       ├── os_cputime.c.d
+│   │   │   │   │   │       │       ├── os_cputime.c.o
+│   │   │   │   │   │       │       ├── os_cputime_pwr2.c.d
+│   │   │   │   │   │       │       ├── os_cputime_pwr2.c.o
+│   │   │   │   │   │       │       ├── os_mbuf.c.d
+│   │   │   │   │   │       │       ├── os_mbuf.c.o
+│   │   │   │   │   │       │       ├── os_mempool.c.d
+│   │   │   │   │   │       │       ├── os_mempool.c.o
+│   │   │   │   │   │       │       ├── os_msys_init.c.d
+│   │   │   │   │   │       │       └── os_msys_init.c.o
+│   │   │   │   │   │       └── npl
+│   │   │   │   │   │           └── freertos
+│   │   │   │   │   │               └── src
+│   │   │   │   │   │                   ├── nimble_port_freertos.c.d
+│   │   │   │   │   │                   ├── nimble_port_freertos.c.o
+│   │   │   │   │   │                   ├── npl_os_freertos.c.d
+│   │   │   │   │   │                   └── npl_os_freertos.c.o
+│   │   │   │   │   ├── NimBLE2904.cpp.d
+│   │   │   │   │   ├── NimBLE2904.cpp.o
+│   │   │   │   │   ├── NimBLEAddress.cpp.d
+│   │   │   │   │   ├── NimBLEAddress.cpp.o
+│   │   │   │   │   ├── NimBLEAdvertisedDevice.cpp.d
+│   │   │   │   │   ├── NimBLEAdvertisedDevice.cpp.o
+│   │   │   │   │   ├── NimBLEAdvertisementData.cpp.d
+│   │   │   │   │   ├── NimBLEAdvertisementData.cpp.o
+│   │   │   │   │   ├── NimBLEAdvertising.cpp.d
+│   │   │   │   │   ├── NimBLEAdvertising.cpp.o
+│   │   │   │   │   ├── NimBLEAttValue.cpp.d
+│   │   │   │   │   ├── NimBLEAttValue.cpp.o
+│   │   │   │   │   ├── NimBLEBeacon.cpp.d
+│   │   │   │   │   ├── NimBLEBeacon.cpp.o
+│   │   │   │   │   ├── NimBLECharacteristic.cpp.d
+│   │   │   │   │   ├── NimBLECharacteristic.cpp.o
+│   │   │   │   │   ├── NimBLEClient.cpp.d
+│   │   │   │   │   ├── NimBLEClient.cpp.o
+│   │   │   │   │   ├── NimBLEDescriptor.cpp.d
+│   │   │   │   │   ├── NimBLEDescriptor.cpp.o
+│   │   │   │   │   ├── NimBLEDevice.cpp.d
+│   │   │   │   │   ├── NimBLEDevice.cpp.o
+│   │   │   │   │   ├── NimBLEEddystoneTLM.cpp.d
+│   │   │   │   │   ├── NimBLEEddystoneTLM.cpp.o
+│   │   │   │   │   ├── NimBLEExtAdvertising.cpp.d
+│   │   │   │   │   ├── NimBLEExtAdvertising.cpp.o
+│   │   │   │   │   ├── NimBLEHIDDevice.cpp.d
+│   │   │   │   │   ├── NimBLEHIDDevice.cpp.o
+│   │   │   │   │   ├── NimBLEL2CAPChannel.cpp.d
+│   │   │   │   │   ├── NimBLEL2CAPChannel.cpp.o
+│   │   │   │   │   ├── NimBLEL2CAPServer.cpp.d
+│   │   │   │   │   ├── NimBLEL2CAPServer.cpp.o
+│   │   │   │   │   ├── NimBLERemoteCharacteristic.cpp.d
+│   │   │   │   │   ├── NimBLERemoteCharacteristic.cpp.o
+│   │   │   │   │   ├── NimBLERemoteDescriptor.cpp.d
+│   │   │   │   │   ├── NimBLERemoteDescriptor.cpp.o
+│   │   │   │   │   ├── NimBLERemoteService.cpp.d
+│   │   │   │   │   ├── NimBLERemoteService.cpp.o
+│   │   │   │   │   ├── NimBLERemoteValueAttribute.cpp.d
+│   │   │   │   │   ├── NimBLERemoteValueAttribute.cpp.o
+│   │   │   │   │   ├── NimBLEScan.cpp.d
+│   │   │   │   │   ├── NimBLEScan.cpp.o
+│   │   │   │   │   ├── NimBLEServer.cpp.d
+│   │   │   │   │   ├── NimBLEServer.cpp.o
+│   │   │   │   │   ├── NimBLEService.cpp.d
+│   │   │   │   │   ├── NimBLEService.cpp.o
+│   │   │   │   │   ├── NimBLEStream.cpp.d
+│   │   │   │   │   ├── NimBLEStream.cpp.o
+│   │   │   │   │   ├── NimBLEUUID.cpp.d
+│   │   │   │   │   ├── NimBLEUUID.cpp.o
+│   │   │   │   │   ├── NimBLEUtils.cpp.d
+│   │   │   │   │   └── NimBLEUtils.cpp.o
+│   │   │   │   └── libNimBLE-Arduino.a
+│   │   │   ├── lib44f
+│   │   │   │   ├── RadioLib
+│   │   │   │   │   ├── hal
+│   │   │   │   │   │   ├── Arduino
+│   │   │   │   │   │   │   ├── ArduinoHal.cpp.d
+│   │   │   │   │   │   │   └── ArduinoHal.cpp.o
+│   │   │   │   │   │   └── RPiPico
+│   │   │   │   │   │       ├── PicoHal.cpp.d
+│   │   │   │   │   │       └── PicoHal.cpp.o
+│   │   │   │   │   ├── modules
+│   │   │   │   │   │   ├── CC1101
+│   │   │   │   │   │   │   ├── CC1101.cpp.d
+│   │   │   │   │   │   │   └── CC1101.cpp.o
+│   │   │   │   │   │   ├── LLCC68
+│   │   │   │   │   │   │   ├── LLCC68.cpp.d
+│   │   │   │   │   │   │   └── LLCC68.cpp.o
+│   │   │   │   │   │   ├── LR11x0
+│   │   │   │   │   │   │   ├── LR1110.cpp.d
+│   │   │   │   │   │   │   ├── LR1110.cpp.o
+│   │   │   │   │   │   │   ├── LR1120.cpp.d
+│   │   │   │   │   │   │   ├── LR1120.cpp.o
+│   │   │   │   │   │   │   ├── LR1121.cpp.d
+│   │   │   │   │   │   │   ├── LR1121.cpp.o
+│   │   │   │   │   │   │   ├── LR11x0.cpp.d
+│   │   │   │   │   │   │   ├── LR11x0.cpp.o
+│   │   │   │   │   │   │   ├── LR11x0_commands.cpp.d
+│   │   │   │   │   │   │   ├── LR11x0_commands.cpp.o
+│   │   │   │   │   │   │   ├── LR11x0_crypto.cpp.d
+│   │   │   │   │   │   │   ├── LR11x0_crypto.cpp.o
+│   │   │   │   │   │   │   ├── LR11x0_gnss.cpp.d
+│   │   │   │   │   │   │   ├── LR11x0_gnss.cpp.o
+│   │   │   │   │   │   │   ├── LR11x0_wifi.cpp.d
+│   │   │   │   │   │   │   ├── LR11x0_wifi.cpp.o
+│   │   │   │   │   │   │   ├── LR_common.cpp.d
+│   │   │   │   │   │   │   └── LR_common.cpp.o
+│   │   │   │   │   │   ├── LR2021
+│   │   │   │   │   │   │   ├── LR2021.cpp.d
+│   │   │   │   │   │   │   ├── LR2021.cpp.o
+│   │   │   │   │   │   │   ├── LR2021_cmds_chip_control.cpp.d
+│   │   │   │   │   │   │   ├── LR2021_cmds_chip_control.cpp.o
+│   │   │   │   │   │   │   ├── LR2021_cmds_flrc.cpp.d
+│   │   │   │   │   │   │   ├── LR2021_cmds_flrc.cpp.o
+│   │   │   │   │   │   │   ├── LR2021_cmds_gfsk.cpp.d
+│   │   │   │   │   │   │   ├── LR2021_cmds_gfsk.cpp.o
+│   │   │   │   │   │   │   ├── LR2021_cmds_lora.cpp.d
+│   │   │   │   │   │   │   ├── LR2021_cmds_lora.cpp.o
+│   │   │   │   │   │   │   ├── LR2021_cmds_misc.cpp.d
+│   │   │   │   │   │   │   ├── LR2021_cmds_misc.cpp.o
+│   │   │   │   │   │   │   ├── LR2021_cmds_ook.cpp.d
+│   │   │   │   │   │   │   ├── LR2021_cmds_ook.cpp.o
+│   │   │   │   │   │   │   ├── LR2021_cmds_oqpsk.cpp.d
+│   │   │   │   │   │   │   ├── LR2021_cmds_oqpsk.cpp.o
+│   │   │   │   │   │   │   ├── LR2021_cmds_radio.cpp.d
+│   │   │   │   │   │   │   ├── LR2021_cmds_radio.cpp.o
+│   │   │   │   │   │   │   ├── LR2021_cmds_ranging.cpp.d
+│   │   │   │   │   │   │   ├── LR2021_cmds_ranging.cpp.o
+│   │   │   │   │   │   │   ├── LR2021_config.cpp.d
+│   │   │   │   │   │   │   └── LR2021_config.cpp.o
+│   │   │   │   │   │   ├── RF69
+│   │   │   │   │   │   │   ├── RF69.cpp.d
+│   │   │   │   │   │   │   └── RF69.cpp.o
+│   │   │   │   │   │   ├── SX123x
+│   │   │   │   │   │   │   ├── SX1231.cpp.d
+│   │   │   │   │   │   │   ├── SX1231.cpp.o
+│   │   │   │   │   │   │   ├── SX1233.cpp.d
+│   │   │   │   │   │   │   └── SX1233.cpp.o
+│   │   │   │   │   │   ├── SX126x
+│   │   │   │   │   │   │   ├── STM32WLx.cpp.d
+│   │   │   │   │   │   │   ├── STM32WLx.cpp.o
+│   │   │   │   │   │   │   ├── STM32WLx_Module.cpp.d
+│   │   │   │   │   │   │   ├── STM32WLx_Module.cpp.o
+│   │   │   │   │   │   │   ├── SX1261.cpp.d
+│   │   │   │   │   │   │   ├── SX1261.cpp.o
+│   │   │   │   │   │   │   ├── SX1262.cpp.d
+│   │   │   │   │   │   │   ├── SX1262.cpp.o
+│   │   │   │   │   │   │   ├── SX1268.cpp.d
+│   │   │   │   │   │   │   ├── SX1268.cpp.o
+│   │   │   │   │   │   │   ├── SX126x.cpp.d
+│   │   │   │   │   │   │   ├── SX126x.cpp.o
+│   │   │   │   │   │   │   ├── SX126x_LR_FHSS.cpp.d
+│   │   │   │   │   │   │   ├── SX126x_LR_FHSS.cpp.o
+│   │   │   │   │   │   │   ├── SX126x_commands.cpp.d
+│   │   │   │   │   │   │   ├── SX126x_commands.cpp.o
+│   │   │   │   │   │   │   ├── SX126x_config.cpp.d
+│   │   │   │   │   │   │   └── SX126x_config.cpp.o
+│   │   │   │   │   │   ├── SX127x
+│   │   │   │   │   │   │   ├── SX1272.cpp.d
+│   │   │   │   │   │   │   ├── SX1272.cpp.o
+│   │   │   │   │   │   │   ├── SX1273.cpp.d
+│   │   │   │   │   │   │   ├── SX1273.cpp.o
+│   │   │   │   │   │   │   ├── SX1276.cpp.d
+│   │   │   │   │   │   │   ├── SX1276.cpp.o
+│   │   │   │   │   │   │   ├── SX1277.cpp.d
+│   │   │   │   │   │   │   ├── SX1277.cpp.o
+│   │   │   │   │   │   │   ├── SX1278.cpp.d
+│   │   │   │   │   │   │   ├── SX1278.cpp.o
+│   │   │   │   │   │   │   ├── SX1279.cpp.d
+│   │   │   │   │   │   │   ├── SX1279.cpp.o
+│   │   │   │   │   │   │   ├── SX127x.cpp.d
+│   │   │   │   │   │   │   └── SX127x.cpp.o
+│   │   │   │   │   │   ├── SX128x
+│   │   │   │   │   │   │   ├── SX1280.cpp.d
+│   │   │   │   │   │   │   ├── SX1280.cpp.o
+│   │   │   │   │   │   │   ├── SX1281.cpp.d
+│   │   │   │   │   │   │   ├── SX1281.cpp.o
+│   │   │   │   │   │   │   ├── SX1282.cpp.d
+│   │   │   │   │   │   │   ├── SX1282.cpp.o
+│   │   │   │   │   │   │   ├── SX128x.cpp.d
+│   │   │   │   │   │   │   └── SX128x.cpp.o
+│   │   │   │   │   │   ├── Si443x
+│   │   │   │   │   │   │   ├── Si4430.cpp.d
+│   │   │   │   │   │   │   ├── Si4430.cpp.o
+│   │   │   │   │   │   │   ├── Si4431.cpp.d
+│   │   │   │   │   │   │   ├── Si4431.cpp.o
+│   │   │   │   │   │   │   ├── Si4432.cpp.d
+│   │   │   │   │   │   │   ├── Si4432.cpp.o
+│   │   │   │   │   │   │   ├── Si443x.cpp.d
+│   │   │   │   │   │   │   └── Si443x.cpp.o
+│   │   │   │   │   │   └── nRF24
+│   │   │   │   │   │       ├── nRF24.cpp.d
+│   │   │   │   │   │       └── nRF24.cpp.o
+│   │   │   │   │   ├── protocols
+│   │   │   │   │   │   ├── ADSB
+│   │   │   │   │   │   │   ├── ADSB.cpp.d
+│   │   │   │   │   │   │   └── ADSB.cpp.o
+│   │   │   │   │   │   ├── AFSK
+│   │   │   │   │   │   │   ├── AFSK.cpp.d
+│   │   │   │   │   │   │   └── AFSK.cpp.o
+│   │   │   │   │   │   ├── APRS
+│   │   │   │   │   │   │   ├── APRS.cpp.d
+│   │   │   │   │   │   │   └── APRS.cpp.o
+│   │   │   │   │   │   ├── AX25
+│   │   │   │   │   │   │   ├── AX25.cpp.d
+│   │   │   │   │   │   │   └── AX25.cpp.o
+│   │   │   │   │   │   ├── BellModem
+│   │   │   │   │   │   │   ├── BellModem.cpp.d
+│   │   │   │   │   │   │   └── BellModem.cpp.o
+│   │   │   │   │   │   ├── ExternalRadio
+│   │   │   │   │   │   │   ├── ExternalRadio.cpp.d
+│   │   │   │   │   │   │   └── ExternalRadio.cpp.o
+│   │   │   │   │   │   ├── FSK4
+│   │   │   │   │   │   │   ├── FSK4.cpp.d
+│   │   │   │   │   │   │   └── FSK4.cpp.o
+│   │   │   │   │   │   ├── Hellschreiber
+│   │   │   │   │   │   │   ├── Hellschreiber.cpp.d
+│   │   │   │   │   │   │   └── Hellschreiber.cpp.o
+│   │   │   │   │   │   ├── LoRaWAN
+│   │   │   │   │   │   │   ├── LoRaWAN.cpp.d
+│   │   │   │   │   │   │   ├── LoRaWAN.cpp.o
+│   │   │   │   │   │   │   ├── LoRaWANBands.cpp.d
+│   │   │   │   │   │   │   └── LoRaWANBands.cpp.o
+│   │   │   │   │   │   ├── Morse
+│   │   │   │   │   │   │   ├── Morse.cpp.d
+│   │   │   │   │   │   │   └── Morse.cpp.o
+│   │   │   │   │   │   ├── Pager
+│   │   │   │   │   │   │   ├── Pager.cpp.d
+│   │   │   │   │   │   │   └── Pager.cpp.o
+│   │   │   │   │   │   ├── PhysicalLayer
+│   │   │   │   │   │   │   ├── PhysicalLayer.cpp.d
+│   │   │   │   │   │   │   └── PhysicalLayer.cpp.o
+│   │   │   │   │   │   ├── Print
+│   │   │   │   │   │   │   ├── ITA2String.cpp.d
+│   │   │   │   │   │   │   ├── ITA2String.cpp.o
+│   │   │   │   │   │   │   ├── Print.cpp.d
+│   │   │   │   │   │   │   └── Print.cpp.o
+│   │   │   │   │   │   ├── RTTY
+│   │   │   │   │   │   │   ├── RTTY.cpp.d
+│   │   │   │   │   │   │   └── RTTY.cpp.o
+│   │   │   │   │   │   └── SSTV
+│   │   │   │   │   │       ├── SSTV.cpp.d
+│   │   │   │   │   │       └── SSTV.cpp.o
+│   │   │   │   │   ├── utils
+│   │   │   │   │   │   ├── CRC.cpp.d
+│   │   │   │   │   │   ├── CRC.cpp.o
+│   │   │   │   │   │   ├── Cryptography.cpp.d
+│   │   │   │   │   │   ├── Cryptography.cpp.o
+│   │   │   │   │   │   ├── FEC.cpp.d
+│   │   │   │   │   │   ├── FEC.cpp.o
+│   │   │   │   │   │   ├── Utils.cpp.d
+│   │   │   │   │   │   └── Utils.cpp.o
+│   │   │   │   │   ├── Hal.cpp.d
+│   │   │   │   │   ├── Hal.cpp.o
+│   │   │   │   │   ├── Module.cpp.d
+│   │   │   │   │   └── Module.cpp.o
+│   │   │   │   └── libRadioLib.a
+│   │   │   ├── lib4e1
+│   │   │   │   ├── FS
+│   │   │   │   │   ├── FS.cpp.d
+│   │   │   │   │   ├── FS.cpp.o
+│   │   │   │   │   ├── vfs_api.cpp.d
+│   │   │   │   │   └── vfs_api.cpp.o
+│   │   │   │   └── libFS.a
+│   │   │   ├── lib519
+│   │   │   │   ├── Melopero RV3028
+│   │   │   │   │   ├── Melopero_RV3028.cpp.d
+│   │   │   │   │   └── Melopero_RV3028.cpp.o
+│   │   │   │   └── libMelopero RV3028.a
+│   │   │   ├── lib586
+│   │   │   │   ├── BLE
+│   │   │   │   │   ├── BLE2902.cpp.d
+│   │   │   │   │   ├── BLE2902.cpp.o
+│   │   │   │   │   ├── BLE2904.cpp.d
+│   │   │   │   │   ├── BLE2904.cpp.o
+│   │   │   │   │   ├── BLEAddress.cpp.d
+│   │   │   │   │   ├── BLEAddress.cpp.o
+│   │   │   │   │   ├── BLEAdvertisedDevice.cpp.d
+│   │   │   │   │   ├── BLEAdvertisedDevice.cpp.o
+│   │   │   │   │   ├── BLEAdvertising.cpp.d
+│   │   │   │   │   ├── BLEAdvertising.cpp.o
+│   │   │   │   │   ├── BLEBeacon.cpp.d
+│   │   │   │   │   ├── BLEBeacon.cpp.o
+│   │   │   │   │   ├── BLECharacteristic.cpp.d
+│   │   │   │   │   ├── BLECharacteristic.cpp.o
+│   │   │   │   │   ├── BLECharacteristicMap.cpp.d
+│   │   │   │   │   ├── BLECharacteristicMap.cpp.o
+│   │   │   │   │   ├── BLEClient.cpp.d
+│   │   │   │   │   ├── BLEClient.cpp.o
+│   │   │   │   │   ├── BLEDescriptor.cpp.d
+│   │   │   │   │   ├── BLEDescriptor.cpp.o
+│   │   │   │   │   ├── BLEDescriptorMap.cpp.d
+│   │   │   │   │   ├── BLEDescriptorMap.cpp.o
+│   │   │   │   │   ├── BLEDevice.cpp.d
+│   │   │   │   │   ├── BLEDevice.cpp.o
+│   │   │   │   │   ├── BLEEddystoneTLM.cpp.d
+│   │   │   │   │   ├── BLEEddystoneTLM.cpp.o
+│   │   │   │   │   ├── BLEEddystoneURL.cpp.d
+│   │   │   │   │   ├── BLEEddystoneURL.cpp.o
+│   │   │   │   │   ├── BLEExceptions.cpp.d
+│   │   │   │   │   ├── BLEExceptions.cpp.o
+│   │   │   │   │   ├── BLEHIDDevice.cpp.d
+│   │   │   │   │   ├── BLEHIDDevice.cpp.o
+│   │   │   │   │   ├── BLERemoteCharacteristic.cpp.d
+│   │   │   │   │   ├── BLERemoteCharacteristic.cpp.o
+│   │   │   │   │   ├── BLERemoteDescriptor.cpp.d
+│   │   │   │   │   ├── BLERemoteDescriptor.cpp.o
+│   │   │   │   │   ├── BLERemoteService.cpp.d
+│   │   │   │   │   ├── BLERemoteService.cpp.o
+│   │   │   │   │   ├── BLEScan.cpp.d
+│   │   │   │   │   ├── BLEScan.cpp.o
+│   │   │   │   │   ├── BLESecurity.cpp.d
+│   │   │   │   │   ├── BLESecurity.cpp.o
+│   │   │   │   │   ├── BLEServer.cpp.d
+│   │   │   │   │   ├── BLEServer.cpp.o
+│   │   │   │   │   ├── BLEService.cpp.d
+│   │   │   │   │   ├── BLEService.cpp.o
+│   │   │   │   │   ├── BLEServiceMap.cpp.d
+│   │   │   │   │   ├── BLEServiceMap.cpp.o
+│   │   │   │   │   ├── BLEUUID.cpp.d
+│   │   │   │   │   ├── BLEUUID.cpp.o
+│   │   │   │   │   ├── BLEUtils.cpp.d
+│   │   │   │   │   ├── BLEUtils.cpp.o
+│   │   │   │   │   ├── BLEValue.cpp.d
+│   │   │   │   │   ├── BLEValue.cpp.o
+│   │   │   │   │   ├── FreeRTOS.cpp.d
+│   │   │   │   │   ├── FreeRTOS.cpp.o
+│   │   │   │   │   ├── GeneralUtils.cpp.d
+│   │   │   │   │   └── GeneralUtils.cpp.o
+│   │   │   │   └── libBLE.a
+│   │   │   ├── lib5f7
+│   │   │   │   ├── WiFi
+│   │   │   │   │   ├── WiFi.cpp.d
+│   │   │   │   │   ├── WiFi.cpp.o
+│   │   │   │   │   ├── WiFiAP.cpp.d
+│   │   │   │   │   ├── WiFiAP.cpp.o
+│   │   │   │   │   ├── WiFiClient.cpp.d
+│   │   │   │   │   ├── WiFiClient.cpp.o
+│   │   │   │   │   ├── WiFiGeneric.cpp.d
+│   │   │   │   │   ├── WiFiGeneric.cpp.o
+│   │   │   │   │   ├── WiFiMulti.cpp.d
+│   │   │   │   │   ├── WiFiMulti.cpp.o
+│   │   │   │   │   ├── WiFiSTA.cpp.d
+│   │   │   │   │   ├── WiFiSTA.cpp.o
+│   │   │   │   │   ├── WiFiScan.cpp.d
+│   │   │   │   │   ├── WiFiScan.cpp.o
+│   │   │   │   │   ├── WiFiServer.cpp.d
+│   │   │   │   │   ├── WiFiServer.cpp.o
+│   │   │   │   │   ├── WiFiUdp.cpp.d
+│   │   │   │   │   └── WiFiUdp.cpp.o
+│   │   │   │   └── libWiFi.a
+│   │   │   ├── lib635
+│   │   │   │   ├── CayenneLPP
+│   │   │   │   │   ├── CayenneLPP.cpp.d
+│   │   │   │   │   ├── CayenneLPP.cpp.o
+│   │   │   │   │   ├── CayenneLPPPolyline.cpp.d
+│   │   │   │   │   └── CayenneLPPPolyline.cpp.o
+│   │   │   │   └── libCayenneLPP.a
+│   │   │   ├── lib87d
+│   │   │   │   ├── ed25519
+│   │   │   │   │   ├── add_scalar.c.d
+│   │   │   │   │   ├── add_scalar.c.o
+│   │   │   │   │   ├── fe.c.d
+│   │   │   │   │   ├── fe.c.o
+│   │   │   │   │   ├── ge.c.d
+│   │   │   │   │   ├── ge.c.o
+│   │   │   │   │   ├── key_exchange.c.d
+│   │   │   │   │   ├── key_exchange.c.o
+│   │   │   │   │   ├── keypair.c.d
+│   │   │   │   │   ├── keypair.c.o
+│   │   │   │   │   ├── sc.c.d
+│   │   │   │   │   ├── sc.c.o
+│   │   │   │   │   ├── seed.c.d
+│   │   │   │   │   ├── seed.c.o
+│   │   │   │   │   ├── sha512.c.d
+│   │   │   │   │   ├── sha512.c.o
+│   │   │   │   │   ├── sign.c.d
+│   │   │   │   │   ├── sign.c.o
+│   │   │   │   │   ├── verify.c.d
+│   │   │   │   │   └── verify.c.o
+│   │   │   │   └── libed25519.a
+│   │   │   ├── libb61
+│   │   │   │   ├── Adafruit BusIO
+│   │   │   │   │   ├── Adafruit_BusIO_Register.cpp.d
+│   │   │   │   │   ├── Adafruit_BusIO_Register.cpp.o
+│   │   │   │   │   ├── Adafruit_GenericDevice.cpp.d
+│   │   │   │   │   ├── Adafruit_GenericDevice.cpp.o
+│   │   │   │   │   ├── Adafruit_I2CDevice.cpp.d
+│   │   │   │   │   ├── Adafruit_I2CDevice.cpp.o
+│   │   │   │   │   ├── Adafruit_SPIDevice.cpp.d
+│   │   │   │   │   └── Adafruit_SPIDevice.cpp.o
+│   │   │   │   └── libAdafruit BusIO.a
+│   │   │   ├── libca6
+│   │   │   │   ├── Wire
+│   │   │   │   │   ├── Wire.cpp.d
+│   │   │   │   │   └── Wire.cpp.o
+│   │   │   │   └── libWire.a
+│   │   │   ├── libdcf
+│   │   │   │   ├── Crypto
+│   │   │   │   │   ├── AES128.cpp.d
+│   │   │   │   │   ├── AES128.cpp.o
+│   │   │   │   │   ├── AES192.cpp.d
+│   │   │   │   │   ├── AES192.cpp.o
+│   │   │   │   │   ├── AES256.cpp.d
+│   │   │   │   │   ├── AES256.cpp.o
+│   │   │   │   │   ├── AESCommon.cpp.d
+│   │   │   │   │   ├── AESCommon.cpp.o
+│   │   │   │   │   ├── AESEsp32.cpp.d
+│   │   │   │   │   ├── AESEsp32.cpp.o
+│   │   │   │   │   ├── AuthenticatedCipher.cpp.d
+│   │   │   │   │   ├── AuthenticatedCipher.cpp.o
+│   │   │   │   │   ├── BLAKE2b.cpp.d
+│   │   │   │   │   ├── BLAKE2b.cpp.o
+│   │   │   │   │   ├── BLAKE2s.cpp.d
+│   │   │   │   │   ├── BLAKE2s.cpp.o
+│   │   │   │   │   ├── BigNumberUtil.cpp.d
+│   │   │   │   │   ├── BigNumberUtil.cpp.o
+│   │   │   │   │   ├── BlockCipher.cpp.d
+│   │   │   │   │   ├── BlockCipher.cpp.o
+│   │   │   │   │   ├── CTR.cpp.d
+│   │   │   │   │   ├── CTR.cpp.o
+│   │   │   │   │   ├── ChaCha.cpp.d
+│   │   │   │   │   ├── ChaCha.cpp.o
+│   │   │   │   │   ├── ChaChaPoly.cpp.d
+│   │   │   │   │   ├── ChaChaPoly.cpp.o
+│   │   │   │   │   ├── Cipher.cpp.d
+│   │   │   │   │   ├── Cipher.cpp.o
+│   │   │   │   │   ├── Crypto.cpp.d
+│   │   │   │   │   ├── Crypto.cpp.o
+│   │   │   │   │   ├── Curve25519.cpp.d
+│   │   │   │   │   ├── Curve25519.cpp.o
+│   │   │   │   │   ├── EAX.cpp.d
+│   │   │   │   │   ├── EAX.cpp.o
+│   │   │   │   │   ├── Ed25519.cpp.d
+│   │   │   │   │   ├── Ed25519.cpp.o
+│   │   │   │   │   ├── GCM.cpp.d
+│   │   │   │   │   ├── GCM.cpp.o
+│   │   │   │   │   ├── GF128.cpp.d
+│   │   │   │   │   ├── GF128.cpp.o
+│   │   │   │   │   ├── GHASH.cpp.d
+│   │   │   │   │   ├── GHASH.cpp.o
+│   │   │   │   │   ├── HKDF.cpp.d
+│   │   │   │   │   ├── HKDF.cpp.o
+│   │   │   │   │   ├── Hash.cpp.d
+│   │   │   │   │   ├── Hash.cpp.o
+│   │   │   │   │   ├── KeccakCore.cpp.d
+│   │   │   │   │   ├── KeccakCore.cpp.o
+│   │   │   │   │   ├── NoiseSource.cpp.d
+│   │   │   │   │   ├── NoiseSource.cpp.o
+│   │   │   │   │   ├── OMAC.cpp.d
+│   │   │   │   │   ├── OMAC.cpp.o
+│   │   │   │   │   ├── P521.cpp.d
+│   │   │   │   │   ├── P521.cpp.o
+│   │   │   │   │   ├── Poly1305.cpp.d
+│   │   │   │   │   ├── Poly1305.cpp.o
+│   │   │   │   │   ├── RNG.cpp.d
+│   │   │   │   │   ├── RNG.cpp.o
+│   │   │   │   │   ├── SHA224.cpp.d
+│   │   │   │   │   ├── SHA224.cpp.o
+│   │   │   │   │   ├── SHA256.cpp.d
+│   │   │   │   │   ├── SHA256.cpp.o
+│   │   │   │   │   ├── SHA3.cpp.d
+│   │   │   │   │   ├── SHA3.cpp.o
+│   │   │   │   │   ├── SHA384.cpp.d
+│   │   │   │   │   ├── SHA384.cpp.o
+│   │   │   │   │   ├── SHA512.cpp.d
+│   │   │   │   │   ├── SHA512.cpp.o
+│   │   │   │   │   ├── SHAKE.cpp.d
+│   │   │   │   │   ├── SHAKE.cpp.o
+│   │   │   │   │   ├── XOF.cpp.d
+│   │   │   │   │   ├── XOF.cpp.o
+│   │   │   │   │   ├── XTS.cpp.d
+│   │   │   │   │   └── XTS.cpp.o
+│   │   │   │   └── libCrypto.a
+│   │   │   ├── libe95
+│   │   │   │   ├── SPIFFS
+│   │   │   │   │   ├── SPIFFS.cpp.d
+│   │   │   │   │   └── SPIFFS.cpp.o
+│   │   │   │   └── libSPIFFS.a
+│   │   │   ├── libfb5
+│   │   │   │   ├── LittleFS
+│   │   │   │   │   ├── LittleFS.cpp.d
+│   │   │   │   │   └── LittleFS.cpp.o
+│   │   │   │   └── libLittleFS.a
 │   │   │   ├── src
 │   │   │   │   ├── helpers
 │   │   │   │   │   ├── bridges
@@ -360,6 +1483,9 @@
 │   │   │   │   │   ├── radiolib
 │   │   │   │   │   │   ├── RadioLibWrappers.cpp.d
 │   │   │   │   │   │   └── RadioLibWrappers.cpp.o
+│   │   │   │   │   ├── sensors
+│   │   │   │   │   │   ├── EnvironmentSensorManager.cpp.d
+│   │   │   │   │   │   └── EnvironmentSensorManager.cpp.o
 │   │   │   │   │   ├── ui
 │   │   │   │   │   │   ├── MomentaryButton.cpp.d
 │   │   │   │   │   │   └── MomentaryButton.cpp.o
@@ -399,8 +1525,19 @@
 │   │   │   │   ├── Packet.cpp.o
 │   │   │   │   ├── Utils.cpp.d
 │   │   │   │   └── Utils.cpp.o
+│   │   │   ├── variants
+│   │   │   │   └── t_watch_s3
+│   │   │   │       ├── target.cpp.d
+│   │   │   │       ├── target.cpp.o
+│   │   │   │       ├── variant.cpp.d
+│   │   │   │       └── variant.cpp.o
 │   │   │   ├── .sconsign313.dblite
 │   │   │   ├── bootloader.bin
+│   │   │   ├── firmware.bin
+│   │   │   ├── firmware.elf
+│   │   │   ├── firmware.map
+│   │   │   ├── idedata.json
+│   │   │   ├── libFrameworkArduino.a
 │   │   │   └── partitions.bin
 │   │   └── project.checksum
 │   └── libdeps
@@ -4510,6 +5647,621 @@
 │       │   │   ├── SetAlarm.txt
 │       │   │   ├── keywords.txt
 │       │   │   └── library.properties
+│       │   ├── NimBLE-Arduino
+│       │   │   ├── .github
+│       │   │   │   └── workflows
+│       │   │   │       ├── build.yml
+│       │   │   │       └── release.yml
+│       │   │   ├── examples
+│       │   │   │   ├── ANCS
+│       │   │   │   │   └── ANCS.ino
+│       │   │   │   ├── BLE_Beacon_Scanner
+│       │   │   │   │   ├── BLE_Beacon_Scanner.ino
+│       │   │   │   │   └── BLE_Beacon_Scanner.md
+│       │   │   │   ├── BLE_EddystoneTLM_Beacon
+│       │   │   │   │   ├── BLE_EddystoneTLM_Beacon.ino
+│       │   │   │   │   └── BLE_EddystoneTLM_Beacon.md
+│       │   │   │   ├── Bluetooth_5
+│       │   │   │   │   ├── NimBLE_extended_client
+│       │   │   │   │   │   └── NimBLE_extended_client.ino
+│       │   │   │   │   ├── NimBLE_extended_scan
+│       │   │   │   │   │   └── NimBLE_extended_scan.ino
+│       │   │   │   │   ├── NimBLE_extended_server
+│       │   │   │   │   │   └── NimBLE_extended_server.ino
+│       │   │   │   │   └── NimBLE_multi_advertiser
+│       │   │   │   │       └── NimBLE_multi_advertiser.ino
+│       │   │   │   ├── L2CAP
+│       │   │   │   │   ├── L2CAP_Client
+│       │   │   │   │   │   └── L2CAP_Client.ino
+│       │   │   │   │   └── L2CAP_Server
+│       │   │   │   │       └── L2CAP_Server.ino
+│       │   │   │   ├── NimBLE_Async_Client
+│       │   │   │   │   └── NimBLE_Async_Client.ino
+│       │   │   │   ├── NimBLE_Bond_Migration
+│       │   │   │   │   └── NimBLE_Bond_Migration.ino
+│       │   │   │   ├── NimBLE_Client
+│       │   │   │   │   └── NimBLE_Client.ino
+│       │   │   │   ├── NimBLE_Scan_Continuous
+│       │   │   │   │   └── NimBLE_Scan_Continuous.ino
+│       │   │   │   ├── NimBLE_Scan_Whitelist
+│       │   │   │   │   └── NimBLE_Scan_whitelist.ino
+│       │   │   │   ├── NimBLE_Secure_Client
+│       │   │   │   │   └── NimBLE_Secure_Client.ino
+│       │   │   │   ├── NimBLE_Secure_Server
+│       │   │   │   │   └── NimBLE_Secure_Server.ino
+│       │   │   │   ├── NimBLE_Server
+│       │   │   │   │   └── NimBLE_Server.ino
+│       │   │   │   ├── NimBLE_Server_Whitelist
+│       │   │   │   │   └── NimBLE_Server_Whitelist.ino
+│       │   │   │   ├── NimBLE_Stream_Client
+│       │   │   │   │   ├── NimBLE_Stream_Client.ino
+│       │   │   │   │   └── README.md
+│       │   │   │   ├── NimBLE_Stream_Echo
+│       │   │   │   │   ├── NimBLE_Stream_Echo.ino
+│       │   │   │   │   └── README.md
+│       │   │   │   ├── NimBLE_Stream_Server
+│       │   │   │   │   ├── NimBLE_Stream_Server.ino
+│       │   │   │   │   └── README.md
+│       │   │   │   ├── NimBLE_active_passive_scan
+│       │   │   │   │   └── NimBLE_active_passive_scan.ino
+│       │   │   │   └── NimBLE_iBeacon
+│       │   │   │       └── NimBLE_iBeacon.ino
+│       │   │   ├── src
+│       │   │   │   ├── nimble
+│       │   │   │   │   ├── console
+│       │   │   │   │   │   └── console.h
+│       │   │   │   │   ├── esp_port
+│       │   │   │   │   │   ├── esp-hci
+│       │   │   │   │   │   │   ├── include
+│       │   │   │   │   │   │   │   └── esp_nimble_hci.h
+│       │   │   │   │   │   │   └── src
+│       │   │   │   │   │   │       ├── esp_nimble_hci.c
+│       │   │   │   │   │   │       ├── na_hci_driver.c
+│       │   │   │   │   │   │       └── na_hci_transport.c
+│       │   │   │   │   │   └── port
+│       │   │   │   │   │       ├── include
+│       │   │   │   │   │       │   ├── bt_osi_mem.h
+│       │   │   │   │   │       │   ├── esp_nimble_cfg.h
+│       │   │   │   │   │       │   └── esp_nimble_mem.h
+│       │   │   │   │   │       ├── src
+│       │   │   │   │   │       │   └── exp_nimble_mem.c
+│       │   │   │   │   │       └── transport
+│       │   │   │   │   │           └── include
+│       │   │   │   │   │               ├── esp_hci_driver.h
+│       │   │   │   │   │               ├── esp_hci_internal.h
+│       │   │   │   │   │               └── esp_hci_transport.h
+│       │   │   │   │   ├── ext
+│       │   │   │   │   │   └── tinycrypt
+│       │   │   │   │   │       ├── include
+│       │   │   │   │   │       │   └── tinycrypt
+│       │   │   │   │   │       │       ├── aes.h
+│       │   │   │   │   │       │       ├── cbc_mode.h
+│       │   │   │   │   │       │       ├── ccm_mode.h
+│       │   │   │   │   │       │       ├── cmac_mode.h
+│       │   │   │   │   │       │       ├── constants.h
+│       │   │   │   │   │       │       ├── ctr_mode.h
+│       │   │   │   │   │       │       ├── ctr_prng.h
+│       │   │   │   │   │       │       ├── ecc.h
+│       │   │   │   │   │       │       ├── ecc_dh.h
+│       │   │   │   │   │       │       ├── ecc_dsa.h
+│       │   │   │   │   │       │       ├── ecc_platform_specific.h
+│       │   │   │   │   │       │       ├── hmac.h
+│       │   │   │   │   │       │       ├── hmac_prng.h
+│       │   │   │   │   │       │       ├── sha256.h
+│       │   │   │   │   │       │       └── utils.h
+│       │   │   │   │   │       ├── src
+│       │   │   │   │   │       │   ├── aes_decrypt.c
+│       │   │   │   │   │       │   ├── aes_encrypt.c
+│       │   │   │   │   │       │   ├── cbc_mode.c
+│       │   │   │   │   │       │   ├── ccm_mode.c
+│       │   │   │   │   │       │   ├── cmac_mode.c
+│       │   │   │   │   │       │   ├── ctr_mode.c
+│       │   │   │   │   │       │   ├── ctr_prng.c
+│       │   │   │   │   │       │   ├── ecc.c
+│       │   │   │   │   │       │   ├── ecc_dh.c
+│       │   │   │   │   │       │   ├── ecc_dsa.c
+│       │   │   │   │   │       │   ├── ecc_platform_specific.c
+│       │   │   │   │   │       │   ├── hmac.c
+│       │   │   │   │   │       │   ├── hmac_prng.c
+│       │   │   │   │   │       │   ├── sha256.c
+│       │   │   │   │   │       │   └── utils.c
+│       │   │   │   │   │       ├── AUTHORS
+│       │   │   │   │   │       ├── LICENSE
+│       │   │   │   │   │       ├── README
+│       │   │   │   │   │       └── VERSION
+│       │   │   │   │   ├── nimble
+│       │   │   │   │   │   ├── controller
+│       │   │   │   │   │   │   ├── include
+│       │   │   │   │   │   │   │   └── controller
+│       │   │   │   │   │   │   │       ├── ble_fem.h
+│       │   │   │   │   │   │   │       ├── ble_hw.h
+│       │   │   │   │   │   │   │       ├── ble_ll.h
+│       │   │   │   │   │   │   │       ├── ble_ll_adv.h
+│       │   │   │   │   │   │   │       ├── ble_ll_conn.h
+│       │   │   │   │   │   │   │       ├── ble_ll_crypto.h
+│       │   │   │   │   │   │   │       ├── ble_ll_ctrl.h
+│       │   │   │   │   │   │   │       ├── ble_ll_ext.h
+│       │   │   │   │   │   │   │       ├── ble_ll_hci.h
+│       │   │   │   │   │   │   │       ├── ble_ll_iso.h
+│       │   │   │   │   │   │   │       ├── ble_ll_iso_big.h
+│       │   │   │   │   │   │   │       ├── ble_ll_isoal.h
+│       │   │   │   │   │   │   │       ├── ble_ll_pdu.h
+│       │   │   │   │   │   │   │       ├── ble_ll_resolv.h
+│       │   │   │   │   │   │   │       ├── ble_ll_rfmgmt.h
+│       │   │   │   │   │   │   │       ├── ble_ll_scan.h
+│       │   │   │   │   │   │   │       ├── ble_ll_scan_aux.h
+│       │   │   │   │   │   │   │       ├── ble_ll_sched.h
+│       │   │   │   │   │   │   │       ├── ble_ll_sync.h
+│       │   │   │   │   │   │   │       ├── ble_ll_tmr.h
+│       │   │   │   │   │   │   │       ├── ble_ll_trace.h
+│       │   │   │   │   │   │   │       ├── ble_ll_utils.h
+│       │   │   │   │   │   │   │       ├── ble_ll_whitelist.h
+│       │   │   │   │   │   │   │       ├── ble_phy.h
+│       │   │   │   │   │   │   │       └── ble_phy_trace.h
+│       │   │   │   │   │   │   └── src
+│       │   │   │   │   │   │       ├── ble_ll.c
+│       │   │   │   │   │   │       ├── ble_ll_adv.c
+│       │   │   │   │   │   │       ├── ble_ll_conn.c
+│       │   │   │   │   │   │       ├── ble_ll_conn_hci.c
+│       │   │   │   │   │   │       ├── ble_ll_conn_priv.h
+│       │   │   │   │   │   │       ├── ble_ll_crypto.c
+│       │   │   │   │   │   │       ├── ble_ll_ctrl.c
+│       │   │   │   │   │   │       ├── ble_ll_ctrl_priv.h
+│       │   │   │   │   │   │       ├── ble_ll_dtm.c
+│       │   │   │   │   │   │       ├── ble_ll_dtm_priv.h
+│       │   │   │   │   │   │       ├── ble_ll_hci.c
+│       │   │   │   │   │   │       ├── ble_ll_hci_ev.c
+│       │   │   │   │   │   │       ├── ble_ll_hci_priv.h
+│       │   │   │   │   │   │       ├── ble_ll_hci_supp_cmd.c
+│       │   │   │   │   │   │       ├── ble_ll_hci_vs.c
+│       │   │   │   │   │   │       ├── ble_ll_iso.c
+│       │   │   │   │   │   │       ├── ble_ll_iso_big.c
+│       │   │   │   │   │   │       ├── ble_ll_isoal.c
+│       │   │   │   │   │   │       ├── ble_ll_pdu.c
+│       │   │   │   │   │   │       ├── ble_ll_priv.h
+│       │   │   │   │   │   │       ├── ble_ll_rand.c
+│       │   │   │   │   │   │       ├── ble_ll_resolv.c
+│       │   │   │   │   │   │       ├── ble_ll_rfmgmt.c
+│       │   │   │   │   │   │       ├── ble_ll_scan.c
+│       │   │   │   │   │   │       ├── ble_ll_scan_aux.c
+│       │   │   │   │   │   │       ├── ble_ll_sched.c
+│       │   │   │   │   │   │       ├── ble_ll_sync.c
+│       │   │   │   │   │   │       ├── ble_ll_trace.c
+│       │   │   │   │   │   │       ├── ble_ll_utils.c
+│       │   │   │   │   │   │       └── ble_ll_whitelist.c
+│       │   │   │   │   │   ├── drivers
+│       │   │   │   │   │   │   ├── nrf51
+│       │   │   │   │   │   │   │   ├── include
+│       │   │   │   │   │   │   │   │   └── ble
+│       │   │   │   │   │   │   │   │       └── xcvr.h
+│       │   │   │   │   │   │   │   └── src
+│       │   │   │   │   │   │   │       ├── ble_hw.c
+│       │   │   │   │   │   │   │       └── ble_phy.c
+│       │   │   │   │   │   │   └── nrf5x
+│       │   │   │   │   │   │       ├── include
+│       │   │   │   │   │   │       │   └── ble
+│       │   │   │   │   │   │       │       └── xcvr.h
+│       │   │   │   │   │   │       └── src
+│       │   │   │   │   │   │           ├── nrf52
+│       │   │   │   │   │   │           │   ├── phy.c
+│       │   │   │   │   │   │           │   └── phy_ppi.h
+│       │   │   │   │   │   │           ├── nrf53
+│       │   │   │   │   │   │           │   ├── phy.c
+│       │   │   │   │   │   │           │   └── phy_ppi.h
+│       │   │   │   │   │   │           ├── ble_hw.c
+│       │   │   │   │   │   │           ├── ble_phy.c
+│       │   │   │   │   │   │           ├── ble_phy_trace.c
+│       │   │   │   │   │   │           └── phy_priv.h
+│       │   │   │   │   │   ├── host
+│       │   │   │   │   │   │   ├── include
+│       │   │   │   │   │   │   │   └── host
+│       │   │   │   │   │   │   │       ├── ble_aes_ccm.h
+│       │   │   │   │   │   │   │       ├── ble_att.h
+│       │   │   │   │   │   │   │       ├── ble_dtm.h
+│       │   │   │   │   │   │   │       ├── ble_ead.h
+│       │   │   │   │   │   │   │       ├── ble_eddystone.h
+│       │   │   │   │   │   │   │       ├── ble_esp_gap.h
+│       │   │   │   │   │   │   │       ├── ble_esp_gatt.h
+│       │   │   │   │   │   │   │       ├── ble_esp_hs.h
+│       │   │   │   │   │   │   │       ├── ble_gap.h
+│       │   │   │   │   │   │   │       ├── ble_gatt.h
+│       │   │   │   │   │   │   │       ├── ble_hs.h
+│       │   │   │   │   │   │   │       ├── ble_hs_adv.h
+│       │   │   │   │   │   │   │       ├── ble_hs_hci.h
+│       │   │   │   │   │   │   │       ├── ble_hs_id.h
+│       │   │   │   │   │   │   │       ├── ble_hs_log.h
+│       │   │   │   │   │   │   │       ├── ble_hs_mbuf.h
+│       │   │   │   │   │   │   │       ├── ble_hs_pvcy.h
+│       │   │   │   │   │   │   │       ├── ble_hs_stop.h
+│       │   │   │   │   │   │   │       ├── ble_ibeacon.h
+│       │   │   │   │   │   │   │       ├── ble_l2cap.h
+│       │   │   │   │   │   │   │       ├── ble_sm.h
+│       │   │   │   │   │   │   │       ├── ble_store.h
+│       │   │   │   │   │   │   │       └── ble_uuid.h
+│       │   │   │   │   │   │   ├── mesh
+│       │   │   │   │   │   │   │   ├── include
+│       │   │   │   │   │   │   │   │   └── mesh
+│       │   │   │   │   │   │   │   │       ├── access.h
+│       │   │   │   │   │   │   │   │       ├── atomic.h
+│       │   │   │   │   │   │   │   │       ├── cdb.h
+│       │   │   │   │   │   │   │   │       ├── cfg.h
+│       │   │   │   │   │   │   │   │       ├── cfg_cli.h
+│       │   │   │   │   │   │   │   │       ├── cfg_srv.h
+│       │   │   │   │   │   │   │   │       ├── glue.h
+│       │   │   │   │   │   │   │   │       ├── health_cli.h
+│       │   │   │   │   │   │   │   │       ├── health_srv.h
+│       │   │   │   │   │   │   │   │       ├── heartbeat.h
+│       │   │   │   │   │   │   │   │       ├── main.h
+│       │   │   │   │   │   │   │   │       ├── mesh.h
+│       │   │   │   │   │   │   │   │       ├── model_cli.h
+│       │   │   │   │   │   │   │   │       ├── model_srv.h
+│       │   │   │   │   │   │   │   │       ├── msg.h
+│       │   │   │   │   │   │   │   │       ├── porting.h
+│       │   │   │   │   │   │   │   │       ├── proxy.h
+│       │   │   │   │   │   │   │   │       ├── slist.h
+│       │   │   │   │   │   │   │   │       └── testing.h
+│       │   │   │   │   │   │   │   └── src
+│       │   │   │   │   │   │   │       ├── access.c
+│       │   │   │   │   │   │   │       ├── access.h
+│       │   │   │   │   │   │   │       ├── adv.c
+│       │   │   │   │   │   │   │       ├── adv.h
+│       │   │   │   │   │   │   │       ├── adv_ext.c
+│       │   │   │   │   │   │   │       ├── adv_legacy.c
+│       │   │   │   │   │   │   │       ├── aes-ccm.c
+│       │   │   │   │   │   │   │       ├── app_keys.c
+│       │   │   │   │   │   │   │       ├── app_keys.h
+│       │   │   │   │   │   │   │       ├── atomic.h
+│       │   │   │   │   │   │   │       ├── beacon.c
+│       │   │   │   │   │   │   │       ├── beacon.h
+│       │   │   │   │   │   │   │       ├── cdb.c
+│       │   │   │   │   │   │   │       ├── cdb_priv.h
+│       │   │   │   │   │   │   │       ├── cfg.c
+│       │   │   │   │   │   │   │       ├── cfg.h
+│       │   │   │   │   │   │   │       ├── cfg_cli.c
+│       │   │   │   │   │   │   │       ├── cfg_srv.c
+│       │   │   │   │   │   │   │       ├── crypto.c
+│       │   │   │   │   │   │   │       ├── crypto.h
+│       │   │   │   │   │   │   │       ├── foundation.h
+│       │   │   │   │   │   │   │       ├── friend.c
+│       │   │   │   │   │   │   │       ├── friend.h
+│       │   │   │   │   │   │   │       ├── glue.c
+│       │   │   │   │   │   │   │       ├── health_cli.c
+│       │   │   │   │   │   │   │       ├── health_srv.c
+│       │   │   │   │   │   │   │       ├── heartbeat.c
+│       │   │   │   │   │   │   │       ├── heartbeat.h
+│       │   │   │   │   │   │   │       ├── light_model.c
+│       │   │   │   │   │   │   │       ├── light_model.h
+│       │   │   │   │   │   │   │       ├── lpn.c
+│       │   │   │   │   │   │   │       ├── lpn.h
+│       │   │   │   │   │   │   │       ├── mesh.c
+│       │   │   │   │   │   │   │       ├── mesh_priv.h
+│       │   │   │   │   │   │   │       ├── model_cli.c
+│       │   │   │   │   │   │   │       ├── model_srv.c
+│       │   │   │   │   │   │   │       ├── msg.c
+│       │   │   │   │   │   │   │       ├── net.c
+│       │   │   │   │   │   │   │       ├── net.h
+│       │   │   │   │   │   │   │       ├── pb_adv.c
+│       │   │   │   │   │   │   │       ├── pb_gatt.c
+│       │   │   │   │   │   │   │       ├── pb_gatt_srv.c
+│       │   │   │   │   │   │   │       ├── pb_gatt_srv.h
+│       │   │   │   │   │   │   │       ├── prov.c
+│       │   │   │   │   │   │   │       ├── prov.h
+│       │   │   │   │   │   │   │       ├── prov_bearer.h
+│       │   │   │   │   │   │   │       ├── prov_device.c
+│       │   │   │   │   │   │   │       ├── provisioner.c
+│       │   │   │   │   │   │   │       ├── provisioner.h
+│       │   │   │   │   │   │   │       ├── proxy.c
+│       │   │   │   │   │   │   │       ├── proxy.h
+│       │   │   │   │   │   │   │       ├── proxy_msg.c
+│       │   │   │   │   │   │   │       ├── proxy_msg.h
+│       │   │   │   │   │   │   │       ├── proxy_srv.c
+│       │   │   │   │   │   │   │       ├── rpl.c
+│       │   │   │   │   │   │   │       ├── rpl.h
+│       │   │   │   │   │   │   │       ├── settings.c
+│       │   │   │   │   │   │   │       ├── settings.h
+│       │   │   │   │   │   │   │       ├── shell.c
+│       │   │   │   │   │   │   │       ├── shell.h
+│       │   │   │   │   │   │   │       ├── subnet.c
+│       │   │   │   │   │   │   │       ├── subnet.h
+│       │   │   │   │   │   │   │       ├── testing.c
+│       │   │   │   │   │   │   │       ├── testing.h
+│       │   │   │   │   │   │   │       ├── transport.c
+│       │   │   │   │   │   │   │       └── transport.h
+│       │   │   │   │   │   │   ├── services
+│       │   │   │   │   │   │   │   ├── gap
+│       │   │   │   │   │   │   │   │   ├── include
+│       │   │   │   │   │   │   │   │   │   └── services
+│       │   │   │   │   │   │   │   │   │       └── gap
+│       │   │   │   │   │   │   │   │   │           └── ble_svc_gap.h
+│       │   │   │   │   │   │   │   │   └── src
+│       │   │   │   │   │   │   │   │       └── ble_svc_gap.c
+│       │   │   │   │   │   │   │   └── gatt
+│       │   │   │   │   │   │   │       ├── include
+│       │   │   │   │   │   │   │       │   └── services
+│       │   │   │   │   │   │   │       │       └── gatt
+│       │   │   │   │   │   │   │       │           └── ble_svc_gatt.h
+│       │   │   │   │   │   │   │       └── src
+│       │   │   │   │   │   │   │           └── ble_svc_gatt.c
+│       │   │   │   │   │   │   ├── src
+│       │   │   │   │   │   │   │   ├── ble_aes_ccm.c
+│       │   │   │   │   │   │   │   ├── ble_att.c
+│       │   │   │   │   │   │   │   ├── ble_att_clt.c
+│       │   │   │   │   │   │   │   ├── ble_att_cmd.c
+│       │   │   │   │   │   │   │   ├── ble_att_cmd_priv.h
+│       │   │   │   │   │   │   │   ├── ble_att_priv.h
+│       │   │   │   │   │   │   │   ├── ble_att_svr.c
+│       │   │   │   │   │   │   │   ├── ble_dtm.c
+│       │   │   │   │   │   │   │   ├── ble_ead.c
+│       │   │   │   │   │   │   │   ├── ble_eatt.c
+│       │   │   │   │   │   │   │   ├── ble_eatt_priv.h
+│       │   │   │   │   │   │   │   ├── ble_eddystone.c
+│       │   │   │   │   │   │   │   ├── ble_gap.c
+│       │   │   │   │   │   │   │   ├── ble_gap_priv.h
+│       │   │   │   │   │   │   │   ├── ble_gatt_priv.h
+│       │   │   │   │   │   │   │   ├── ble_gattc.c
+│       │   │   │   │   │   │   │   ├── ble_gattc_cache.c
+│       │   │   │   │   │   │   │   ├── ble_gattc_cache_conn.c
+│       │   │   │   │   │   │   │   ├── ble_gattc_cache_priv.h
+│       │   │   │   │   │   │   │   ├── ble_gatts.c
+│       │   │   │   │   │   │   │   ├── ble_gatts_lcl.c
+│       │   │   │   │   │   │   │   ├── ble_hs.c
+│       │   │   │   │   │   │   │   ├── ble_hs_adv.c
+│       │   │   │   │   │   │   │   ├── ble_hs_adv_priv.h
+│       │   │   │   │   │   │   │   ├── ble_hs_atomic.c
+│       │   │   │   │   │   │   │   ├── ble_hs_atomic_priv.h
+│       │   │   │   │   │   │   │   ├── ble_hs_cfg.c
+│       │   │   │   │   │   │   │   ├── ble_hs_conn.c
+│       │   │   │   │   │   │   │   ├── ble_hs_conn_priv.h
+│       │   │   │   │   │   │   │   ├── ble_hs_flow.c
+│       │   │   │   │   │   │   │   ├── ble_hs_flow_priv.h
+│       │   │   │   │   │   │   │   ├── ble_hs_hci.c
+│       │   │   │   │   │   │   │   ├── ble_hs_hci_cmd.c
+│       │   │   │   │   │   │   │   ├── ble_hs_hci_evt.c
+│       │   │   │   │   │   │   │   ├── ble_hs_hci_priv.h
+│       │   │   │   │   │   │   │   ├── ble_hs_hci_util.c
+│       │   │   │   │   │   │   │   ├── ble_hs_id.c
+│       │   │   │   │   │   │   │   ├── ble_hs_id_priv.h
+│       │   │   │   │   │   │   │   ├── ble_hs_log.c
+│       │   │   │   │   │   │   │   ├── ble_hs_mbuf.c
+│       │   │   │   │   │   │   │   ├── ble_hs_mbuf_priv.h
+│       │   │   │   │   │   │   │   ├── ble_hs_misc.c
+│       │   │   │   │   │   │   │   ├── ble_hs_mqueue.c
+│       │   │   │   │   │   │   │   ├── ble_hs_periodic_sync.c
+│       │   │   │   │   │   │   │   ├── ble_hs_periodic_sync_priv.h
+│       │   │   │   │   │   │   │   ├── ble_hs_priv.h
+│       │   │   │   │   │   │   │   ├── ble_hs_pvcy.c
+│       │   │   │   │   │   │   │   ├── ble_hs_pvcy_priv.h
+│       │   │   │   │   │   │   │   ├── ble_hs_resolv.c
+│       │   │   │   │   │   │   │   ├── ble_hs_resolv_priv.h
+│       │   │   │   │   │   │   │   ├── ble_hs_shutdown.c
+│       │   │   │   │   │   │   │   ├── ble_hs_startup.c
+│       │   │   │   │   │   │   │   ├── ble_hs_startup_priv.h
+│       │   │   │   │   │   │   │   ├── ble_hs_stop.c
+│       │   │   │   │   │   │   │   ├── ble_ibeacon.c
+│       │   │   │   │   │   │   │   ├── ble_l2cap.c
+│       │   │   │   │   │   │   │   ├── ble_l2cap_coc.c
+│       │   │   │   │   │   │   │   ├── ble_l2cap_coc_priv.h
+│       │   │   │   │   │   │   │   ├── ble_l2cap_priv.h
+│       │   │   │   │   │   │   │   ├── ble_l2cap_sig.c
+│       │   │   │   │   │   │   │   ├── ble_l2cap_sig_cmd.c
+│       │   │   │   │   │   │   │   ├── ble_l2cap_sig_priv.h
+│       │   │   │   │   │   │   │   ├── ble_sm.c
+│       │   │   │   │   │   │   │   ├── ble_sm_alg.c
+│       │   │   │   │   │   │   │   ├── ble_sm_cmd.c
+│       │   │   │   │   │   │   │   ├── ble_sm_lgcy.c
+│       │   │   │   │   │   │   │   ├── ble_sm_priv.h
+│       │   │   │   │   │   │   │   ├── ble_sm_sc.c
+│       │   │   │   │   │   │   │   ├── ble_store.c
+│       │   │   │   │   │   │   │   ├── ble_store_util.c
+│       │   │   │   │   │   │   │   ├── ble_uuid.c
+│       │   │   │   │   │   │   │   └── ble_uuid_priv.h
+│       │   │   │   │   │   │   ├── store
+│       │   │   │   │   │   │   │   ├── config
+│       │   │   │   │   │   │   │   │   ├── include
+│       │   │   │   │   │   │   │   │   │   └── store
+│       │   │   │   │   │   │   │   │   │       └── config
+│       │   │   │   │   │   │   │   │   │           └── ble_store_config.h
+│       │   │   │   │   │   │   │   │   └── src
+│       │   │   │   │   │   │   │   │       ├── ble_store_config.c
+│       │   │   │   │   │   │   │   │       ├── ble_store_config_conf.c
+│       │   │   │   │   │   │   │   │       ├── ble_store_config_priv.h
+│       │   │   │   │   │   │   │   │       └── ble_store_nvs.c
+│       │   │   │   │   │   │   │   └── ram
+│       │   │   │   │   │   │   │       ├── include
+│       │   │   │   │   │   │   │       │   └── store
+│       │   │   │   │   │   │   │       │       └── ram
+│       │   │   │   │   │   │   │       │           └── ble_store_ram.h
+│       │   │   │   │   │   │   │       └── src
+│       │   │   │   │   │   │   │           └── ble_store_ram.c
+│       │   │   │   │   │   │   └── util
+│       │   │   │   │   │   │       ├── include
+│       │   │   │   │   │   │       │   └── host
+│       │   │   │   │   │   │       │       └── util
+│       │   │   │   │   │   │       │           └── util.h
+│       │   │   │   │   │   │       └── src
+│       │   │   │   │   │   │           └── addr.c
+│       │   │   │   │   │   ├── include
+│       │   │   │   │   │   │   └── nimble
+│       │   │   │   │   │   │       ├── ble.h
+│       │   │   │   │   │   │       ├── hci_common.h
+│       │   │   │   │   │   │       ├── nimble_npl.h
+│       │   │   │   │   │   │       ├── nimble_opt.h
+│       │   │   │   │   │   │       └── nimble_opt_auto.h
+│       │   │   │   │   │   └── transport
+│       │   │   │   │   │       ├── common
+│       │   │   │   │   │       │   ├── hci_h4
+│       │   │   │   │   │       │   │   ├── include
+│       │   │   │   │   │       │   │   │   └── nimble
+│       │   │   │   │   │       │   │   │       └── transport
+│       │   │   │   │   │       │   │   │           └── hci_h4.h
+│       │   │   │   │   │       │   │   └── src
+│       │   │   │   │   │       │   │       └── hci_h4.c
+│       │   │   │   │   │       │   └── hci_ipc
+│       │   │   │   │   │       │       ├── include
+│       │   │   │   │   │       │       │   └── nimble
+│       │   │   │   │   │       │       │       └── transport
+│       │   │   │   │   │       │       │           └── hci_ipc.h
+│       │   │   │   │   │       │       └── src
+│       │   │   │   │   │       │           └── hci_ipc.c
+│       │   │   │   │   │       ├── esp_ipc
+│       │   │   │   │   │       │   └── src
+│       │   │   │   │   │       │       └── hci_esp_ipc.c
+│       │   │   │   │   │       ├── esp_ipc_legacy
+│       │   │   │   │   │       │   └── src
+│       │   │   │   │   │       │       └── hci_esp_ipc_legacy.c
+│       │   │   │   │   │       ├── include
+│       │   │   │   │   │       │   └── nimble
+│       │   │   │   │   │       │       ├── transport
+│       │   │   │   │   │       │       │   ├── monitor.h
+│       │   │   │   │   │       │       │   └── transport_ipc.h
+│       │   │   │   │   │       │       ├── transport.h
+│       │   │   │   │   │       │       └── transport_impl.h
+│       │   │   │   │   │       ├── nrf5340
+│       │   │   │   │   │       │   └── src
+│       │   │   │   │   │       │       └── nrf5340_ble_hci.c
+│       │   │   │   │   │       └── src
+│       │   │   │   │   │           └── transport.c
+│       │   │   │   │   ├── porting
+│       │   │   │   │   │   ├── nimble
+│       │   │   │   │   │   │   ├── include
+│       │   │   │   │   │   │   │   ├── hal
+│       │   │   │   │   │   │   │   │   ├── hal_gpio.h
+│       │   │   │   │   │   │   │   │   ├── hal_os_tick.h
+│       │   │   │   │   │   │   │   │   ├── hal_system.h
+│       │   │   │   │   │   │   │   │   ├── hal_timer.h
+│       │   │   │   │   │   │   │   │   ├── hal_uart.h
+│       │   │   │   │   │   │   │   │   └── hal_watchdog.h
+│       │   │   │   │   │   │   │   ├── log
+│       │   │   │   │   │   │   │   │   └── log.h
+│       │   │   │   │   │   │   │   ├── log_common
+│       │   │   │   │   │   │   │   │   ├── ignore.h
+│       │   │   │   │   │   │   │   │   └── log_common.h
+│       │   │   │   │   │   │   │   ├── logcfg
+│       │   │   │   │   │   │   │   │   └── logcfg.h
+│       │   │   │   │   │   │   │   ├── mem
+│       │   │   │   │   │   │   │   │   └── mem.h
+│       │   │   │   │   │   │   │   ├── modlog
+│       │   │   │   │   │   │   │   │   └── modlog.h
+│       │   │   │   │   │   │   │   ├── nimble
+│       │   │   │   │   │   │   │   │   ├── nimble_port.h
+│       │   │   │   │   │   │   │   │   └── storage_port.h
+│       │   │   │   │   │   │   │   ├── os
+│       │   │   │   │   │   │   │   │   ├── endian.h
+│       │   │   │   │   │   │   │   │   ├── os.h
+│       │   │   │   │   │   │   │   │   ├── os_cputime.h
+│       │   │   │   │   │   │   │   │   ├── os_error.h
+│       │   │   │   │   │   │   │   │   ├── os_mbuf.h
+│       │   │   │   │   │   │   │   │   ├── os_mempool.h
+│       │   │   │   │   │   │   │   │   ├── os_trace_api.h
+│       │   │   │   │   │   │   │   │   ├── queue.h
+│       │   │   │   │   │   │   │   │   └── util.h
+│       │   │   │   │   │   │   │   ├── stats
+│       │   │   │   │   │   │   │   │   └── stats.h
+│       │   │   │   │   │   │   │   ├── syscfg
+│       │   │   │   │   │   │   │   │   └── syscfg.h
+│       │   │   │   │   │   │   │   ├── sysflash
+│       │   │   │   │   │   │   │   │   └── sysflash.h
+│       │   │   │   │   │   │   │   └── sysinit
+│       │   │   │   │   │   │   │       └── sysinit.h
+│       │   │   │   │   │   │   └── src
+│       │   │   │   │   │   │       ├── endian.c
+│       │   │   │   │   │   │       ├── hal_timer.c
+│       │   │   │   │   │   │       ├── mem.c
+│       │   │   │   │   │   │       ├── nimble_port.c
+│       │   │   │   │   │   │       ├── os_cputime.c
+│       │   │   │   │   │   │       ├── os_cputime_pwr2.c
+│       │   │   │   │   │   │       ├── os_mbuf.c
+│       │   │   │   │   │   │       ├── os_mempool.c
+│       │   │   │   │   │   │       └── os_msys_init.c
+│       │   │   │   │   │   └── npl
+│       │   │   │   │   │       └── freertos
+│       │   │   │   │   │           ├── include
+│       │   │   │   │   │           │   └── nimble
+│       │   │   │   │   │           │       ├── nimble_npl_os.h
+│       │   │   │   │   │           │       ├── nimble_port_freertos.h
+│       │   │   │   │   │           │       └── npl_freertos.h
+│       │   │   │   │   │           └── src
+│       │   │   │   │   │               ├── nimble_port_freertos.c
+│       │   │   │   │   │               └── npl_os_freertos.c
+│       │   │   │   │   ├── CODING_STANDARDS.md
+│       │   │   │   │   ├── LICENSE
+│       │   │   │   │   ├── NOTICE
+│       │   │   │   │   ├── README.md
+│       │   │   │   │   └── RELEASE_NOTES.md
+│       │   │   │   ├── syscfg
+│       │   │   │   │   └── syscfg.h
+│       │   │   │   ├── HIDKeyboardTypes.h
+│       │   │   │   ├── HIDTypes.h
+│       │   │   │   ├── NimBLE2904.cpp
+│       │   │   │   ├── NimBLE2904.h
+│       │   │   │   ├── NimBLEAddress.cpp
+│       │   │   │   ├── NimBLEAddress.h
+│       │   │   │   ├── NimBLEAdvertisedDevice.cpp
+│       │   │   │   ├── NimBLEAdvertisedDevice.h
+│       │   │   │   ├── NimBLEAdvertisementData.cpp
+│       │   │   │   ├── NimBLEAdvertisementData.h
+│       │   │   │   ├── NimBLEAdvertising.cpp
+│       │   │   │   ├── NimBLEAdvertising.h
+│       │   │   │   ├── NimBLEAttValue.cpp
+│       │   │   │   ├── NimBLEAttValue.h
+│       │   │   │   ├── NimBLEAttribute.h
+│       │   │   │   ├── NimBLEBeacon.cpp
+│       │   │   │   ├── NimBLEBeacon.h
+│       │   │   │   ├── NimBLEBondMigration.h
+│       │   │   │   ├── NimBLECharacteristic.cpp
+│       │   │   │   ├── NimBLECharacteristic.h
+│       │   │   │   ├── NimBLEClient.cpp
+│       │   │   │   ├── NimBLEClient.h
+│       │   │   │   ├── NimBLEConnInfo.h
+│       │   │   │   ├── NimBLECppVersion.h
+│       │   │   │   ├── NimBLEDescriptor.cpp
+│       │   │   │   ├── NimBLEDescriptor.h
+│       │   │   │   ├── NimBLEDevice.cpp
+│       │   │   │   ├── NimBLEDevice.h
+│       │   │   │   ├── NimBLEEddystoneTLM.cpp
+│       │   │   │   ├── NimBLEEddystoneTLM.h
+│       │   │   │   ├── NimBLEExtAdvertising.cpp
+│       │   │   │   ├── NimBLEExtAdvertising.h
+│       │   │   │   ├── NimBLEHIDDevice.cpp
+│       │   │   │   ├── NimBLEHIDDevice.h
+│       │   │   │   ├── NimBLEL2CAPChannel.cpp
+│       │   │   │   ├── NimBLEL2CAPChannel.h
+│       │   │   │   ├── NimBLEL2CAPServer.cpp
+│       │   │   │   ├── NimBLEL2CAPServer.h
+│       │   │   │   ├── NimBLELocalAttribute.h
+│       │   │   │   ├── NimBLELocalValueAttribute.h
+│       │   │   │   ├── NimBLELog.h
+│       │   │   │   ├── NimBLERemoteCharacteristic.cpp
+│       │   │   │   ├── NimBLERemoteCharacteristic.h
+│       │   │   │   ├── NimBLERemoteDescriptor.cpp
+│       │   │   │   ├── NimBLERemoteDescriptor.h
+│       │   │   │   ├── NimBLERemoteService.cpp
+│       │   │   │   ├── NimBLERemoteService.h
+│       │   │   │   ├── NimBLERemoteValueAttribute.cpp
+│       │   │   │   ├── NimBLERemoteValueAttribute.h
+│       │   │   │   ├── NimBLEScan.cpp
+│       │   │   │   ├── NimBLEScan.h
+│       │   │   │   ├── NimBLEServer.cpp
+│       │   │   │   ├── NimBLEServer.h
+│       │   │   │   ├── NimBLEService.cpp
+│       │   │   │   ├── NimBLEService.h
+│       │   │   │   ├── NimBLEStream.cpp
+│       │   │   │   ├── NimBLEStream.h
+│       │   │   │   ├── NimBLEUUID.cpp
+│       │   │   │   ├── NimBLEUUID.h
+│       │   │   │   ├── NimBLEUtils.cpp
+│       │   │   │   ├── NimBLEUtils.h
+│       │   │   │   ├── NimBLEValueAttribute.h
+│       │   │   │   ├── nimconfig.h
+│       │   │   │   └── nimconfig_rename.h
+│       │   │   ├── .clang-format
+│       │   │   ├── .gitignore
+│       │   │   ├── .piopm
+│       │   │   ├── CHANGELOG.md
+│       │   │   ├── LICENSE
+│       │   │   ├── NOTICE
+│       │   │   ├── README.md
+│       │   │   └── library.properties
 │       │   ├── RTClib
 │       │   │   ├── .github
 │       │   │   │   ├── workflows
@@ -5129,6 +6881,108 @@
 │       │   │   ├── library.properties
 │       │   │   ├── license.txt
 │       │   │   └── uncrustify.cfg
+│       │   ├── XPowersLib
+│       │   │   ├── examples
+│       │   │   │   ├── AXP192_Example
+│       │   │   │   │   └── AXP192_Example.ino
+│       │   │   │   ├── AXP202_Example
+│       │   │   │   │   └── AXP202_Example.ino
+│       │   │   │   ├── AXP2101_ADC_Example
+│       │   │   │   │   └── AXP2101_ADC_Example.ino
+│       │   │   │   ├── AXP2101_BATFET_OFF_Example
+│       │   │   │   │   └── AXP2101_BATFET_OFF_Example.ino
+│       │   │   │   ├── AXP2101_Charge_Current_Setting
+│       │   │   │   │   └── AXP2101_Charge_Current_Setting.ino
+│       │   │   │   ├── AXP2101_Charge_Example
+│       │   │   │   │   └── AXP2101_Charge_Example.ino
+│       │   │   │   ├── AXP2101_Example
+│       │   │   │   │   └── AXP2101_Example.ino
+│       │   │   │   ├── AXP2101_InterruptExample
+│       │   │   │   │   └── AXP2101_InterruptExample.ino
+│       │   │   │   ├── AXP2101_LowBatteryWarningExample
+│       │   │   │   │   └── AXP2101_LowBatteryWarningExample.ino
+│       │   │   │   ├── AXP2101_Sleep_Example
+│       │   │   │   │   └── AXP2101_Sleep_Example.ino
+│       │   │   │   ├── AXP2101_Voltage_Example
+│       │   │   │   │   └── AXP2101_Voltage_Example.ino
+│       │   │   │   ├── BQ25896_Example
+│       │   │   │   │   └── BQ25896_Example.ino
+│       │   │   │   ├── BQ25896_Shutdown_Example
+│       │   │   │   │   └── BQ25896_Shutdown_Example.ino
+│       │   │   │   ├── ESP_IDF_Example
+│       │   │   │   │   ├── main
+│       │   │   │   │   │   ├── CMakeLists.txt
+│       │   │   │   │   │   ├── Kconfig.projbuild
+│       │   │   │   │   │   ├── component.mk
+│       │   │   │   │   │   ├── main.cpp
+│       │   │   │   │   │   ├── port_axp192.cpp
+│       │   │   │   │   │   ├── port_axp2101.cpp
+│       │   │   │   │   │   ├── port_bq25896.cpp
+│       │   │   │   │   │   └── port_i2c.cpp
+│       │   │   │   │   ├── CMakeLists.txt
+│       │   │   │   │   ├── Makefile
+│       │   │   │   │   └── README.md
+│       │   │   │   ├── FastCharging_BleUartDebug
+│       │   │   │   │   └── FastCharging_BleUartDebug.ino
+│       │   │   │   ├── PowerDeliveryHUSB238_BleUart
+│       │   │   │   │   └── PowerDeliveryHUSB238_BleUart.ino
+│       │   │   │   ├── PowerDeliveryHUSB238_Example
+│       │   │   │   │   └── PowerDeliveryHUSB238_Example.ino
+│       │   │   │   ├── SY6970_Example
+│       │   │   │   │   └── SY6970_Example.ino
+│       │   │   │   ├── SY6970_Shutdown_Example
+│       │   │   │   │   └── SY6970_Shutdown_Example.ino
+│       │   │   │   ├── SY6970_Watchdog_Example
+│       │   │   │   │   └── SY6970_Watchdog_Example.ino
+│       │   │   │   ├── XPowersLibInterface_Example
+│       │   │   │   │   └── XPowersLibInterface_Example.ino
+│       │   │   │   └── XPowersLibInterface_Linux
+│       │   │   │       ├── Makefile
+│       │   │   │       ├── liunx_gpio.cpp
+│       │   │   │       └── main.cpp
+│       │   │   ├── src
+│       │   │   │   ├── REG
+│       │   │   │   │   ├── AXP192Constants.h
+│       │   │   │   │   ├── AXP202Constants.h
+│       │   │   │   │   ├── AXP2101Constants.h
+│       │   │   │   │   ├── AXP216Constants.h
+│       │   │   │   │   ├── BQ25896Constants.h
+│       │   │   │   │   ├── GeneralPPMConstants.h
+│       │   │   │   │   ├── HUSB238Constants.h
+│       │   │   │   │   └── SY6970Constants.h
+│       │   │   │   ├── PowerDeliveryHUSB238.hpp
+│       │   │   │   ├── PowersBQ25896.tpp
+│       │   │   │   ├── PowersSY6970.tpp
+│       │   │   │   ├── XPowersAXP192.tpp
+│       │   │   │   ├── XPowersAXP202.tpp
+│       │   │   │   ├── XPowersAXP2101.tpp
+│       │   │   │   ├── XPowersCommon.tpp
+│       │   │   │   ├── XPowersLib.h
+│       │   │   │   ├── XPowersLibInterface.cpp
+│       │   │   │   ├── XPowersLibInterface.hpp
+│       │   │   │   ├── XPowersLib_Version.h
+│       │   │   │   └── XPowersParams.hpp
+│       │   │   ├── .piopm
+│       │   │   ├── LICENSE
+│       │   │   ├── README.md
+│       │   │   ├── keywords.txt
+│       │   │   ├── library.json
+│       │   │   └── library.properties
+│       │   ├── base64
+│       │   │   ├── arduino-test
+│       │   │   │   └── arduino-test.ino
+│       │   │   ├── src
+│       │   │   │   └── base64.hpp
+│       │   │   ├── .gitignore
+│       │   │   ├── .piopm
+│       │   │   ├── .travis.yml
+│       │   │   ├── LICENSE
+│       │   │   ├── Makefile
+│       │   │   ├── README.md
+│       │   │   ├── catch-base64-url.cpp
+│       │   │   ├── catch-standard.cpp
+│       │   │   ├── catch.hpp
+│       │   │   └── library.properties
 │       │   └── integrity.dat
 │       ├── t_watch_s3_companion_ble
 │       │   ├── Adafruit BusIO
@@ -10598,7 +12452,8 @@
 ├── .vscode
 │   ├── c_cpp_properties.json
 │   ├── extensions.json
-│   └── launch.json
+│   ├── launch.json
+│   └── settings.json
 ├── arch
 │   ├── esp32
 │   │   └── AsyncElegantOTA
@@ -10675,6 +12530,7 @@
 │   └── tracker-t1000-e.json
 ├── docs
 │   ├── _assets
+│   │   ├── meshcore.svg
 │   │   └── meshcore_tm.svg
 │   ├── _stylesheets
 │   │   └── extra.css
@@ -11260,7 +13116,7 @@
 │   │   ├── variant.cpp
 │   │   └── variant.h
 │   ├── t_watch_s3
-│   │   ├── .platformio1.ini
+│   │   ├── TWatchS3Board.h
 │   │   ├── pins_arduino.h
 │   │   ├── platformio.ini
 │   │   ├── target.cpp
@@ -11398,4 +13254,4 @@
 ├── platformio.ini
 └── struttura_meshcore.txt
 
-3065 directories, 8334 files
+3420 directories, 9835 files

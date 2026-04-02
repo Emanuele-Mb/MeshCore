@@ -2,10 +2,13 @@
 #include "target.h"
 #include <SPI.h>
 #include <helpers/ESP32Board.h>
+#include <XPowersLib.h>
+
+XPowersAXP2101 PMU;
 
 TWatchS3Board board;
 
-static SPIClass spi_lora(FSPI); 
+static SPIClass spi_lora(HSPI); 
 
 CustomSX1262 radio = new Module(LORA_CS, LORA_DIO1, LORA_RESET, LORA_DIO2, spi_lora);
 
@@ -17,14 +20,23 @@ AutoDiscoverRTCClock rtc_clock(fallback_clock);
 EnvironmentSensorManager sensors;
 
 bool radio_init() {
+  //Serial.println("[1] Board.begin()...");
   board.begin();
   
+  //Serial.println("[2] Fallback_clock...");
   fallback_clock.begin();
+  
+  //Serial.println("[3] Rtc_clock...");
   rtc_clock.begin(Wire);
 
-  spi_lora.begin(LORA_SCK, LORA_MISO, LORA_MOSI, LORA_CS);
+  //Serial.println("[4] Spi_lora.begin...");
+  spi_lora.begin(LORA_SCK, LORA_MISO, LORA_MOSI, -1);
   
-  return radio.std_init(&spi_lora);
+  //Serial.println("[5] Radio.std_init (RadioLib)...");
+  bool result = radio.std_init(&spi_lora);
+  
+  //Serial.println("[6] Success!");
+  return result;
 }
 
 uint32_t radio_get_rng_seed() {

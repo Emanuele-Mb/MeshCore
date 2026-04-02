@@ -1,14 +1,16 @@
-#include <Arduino.h>
+/*#include <Arduino.h>
 #include <Wire.h>
 #include "variant.h"
 #include <RadioLib.h>
-#include "XPowersLib.h"
+#include <XPowersLib.h>
+#include "target.h"
 
 const uint8_t PMU_ADDR = 0x34;
-SX1262 radio = new Module(LORA_CS, LORA_DIO1, LORA_RESET, LORA_DIO2);
+//CustomSX1262 radio = new Module(LORA_CS, LORA_DIO1, LORA_RESET, LORA_DIO2);
 
 void init(){
 
+    radio_init();
     Serial.begin(115200);
     delay(2000);
     Wire.beginTransmission(PMU_ADDR);
@@ -41,9 +43,8 @@ void init(){
     delay(100);
 
     SPI.begin(LORA_SCK, LORA_MISO, LORA_MOSI, LORA_CS);
-    radio.begin(868.0);
-}
-
+}*/
+/*
 void loop(){
     int state =radio.transmit("Hello world");
     if (state == RADIOLIB_ERR_NONE) {
@@ -52,7 +53,7 @@ void loop(){
         Serial.print("Transmission failed");
     }
     delay(5000);
-}
+}*/
 
 
 
