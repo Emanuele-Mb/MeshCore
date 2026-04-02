@@ -19,8 +19,8 @@ public:
     // ------------------------------------------------------------------------------
 
     uint16_t getBattMilliVolts() override {
-        // TODO: Aggiungere lettura reale I2C dell'AXP2101
-        return 4200; // Restituiamo 4.2V (batteria carica) per far avviare il sistema
+        // TODO: Read real battery level from I2C of the AXP2101 chip
+        return 4200;
     }
 
     const char* getManufacturerName() const override {
@@ -33,7 +33,6 @@ public:
     }
 
     uint8_t getStartupReason() const override {
-        // BD_STARTUP_NORMAL è definito proprio nel file che mi hai mandato
         return BD_STARTUP_NORMAL; 
     }
 
@@ -41,9 +40,10 @@ public:
     // OVERRIDE
     // ------------------------------------------------------------------------------
     
-    // Possiamo sovrascrivere powerOff() o sleep() che nel core sono "no op" (vuote)
     void sleep(uint32_t secs) override {
         digitalWrite(TFT_BL, LOW);
         esp_deep_sleep(secs * 1000000ULL);
     }
+
+    //TODO: power off function override
 };

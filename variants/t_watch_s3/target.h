@@ -9,7 +9,6 @@
 #include <helpers/sensors/EnvironmentSensorManager.h>
 
 extern TWatchS3Board board;
-
 extern CustomSX1262Wrapper radio_driver;
 extern AutoDiscoverRTCClock rtc_clock;
 extern EnvironmentSensorManager sensors;

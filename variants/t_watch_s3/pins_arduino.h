@@ -18,7 +18,7 @@ static const uint8_t MOSI = LORA_MOSI;
 static const uint8_t MISO = LORA_MISO;
 static const uint8_t SCK  = LORA_SCK;
 
-// --- Pin Analogici (Standard ESP32-S3) ---
+// --- Analog Pins (Standard ESP32-S3) ---
 static const uint8_t A0 = 1;
 static const uint8_t A1 = 2;
 static const uint8_t A2 = 3;
@@ -40,7 +40,7 @@ static const uint8_t A17 = 18;
 static const uint8_t A18 = 19;
 static const uint8_t A19 = 20;
 
-// --- Pin Touch Capacitivi (Standard ESP32-S3) ---
+// --- Pin Touch (Standard ESP32-S3) ---
 static const uint8_t T1 = 1;
 static const uint8_t T2 = 2;
 static const uint8_t T3 = 3;

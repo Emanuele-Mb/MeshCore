@@ -7,10 +7,8 @@ TWatchS3Board board;
 
 static SPIClass spi_lora(FSPI); 
 
-// 1. Oggetto radio vero e proprio
 CustomSX1262 radio = new Module(LORA_CS, LORA_DIO1, LORA_RESET, LORA_DIO2, spi_lora);
 
-// 2. Il wrapper che MeshCore si aspetta
 CustomSX1262Wrapper radio_driver(radio, board);
 
 ESP32RTCClock fallback_clock;

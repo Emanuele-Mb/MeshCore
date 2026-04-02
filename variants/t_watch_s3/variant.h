@@ -11,9 +11,9 @@
 #define I2C_SDA         10
 #define I2C_SCL         11
 
-#define PMU_IRQ         21    // Interrupt del chip di alimentazione AXP2101
-#define BMA423_INT      14    // Interrupt dell'accelerometro
-#define RTC_ADDR        0x51  // Indirizzo I2C dell'RTC PCF8563
+#define PMU_IRQ         21    // Interrupt AXP2101
+#define BMA423_INT      14    
+#define RTC_ADDR        0x51  // RTC PCF8563 adress I2C 
 
 // ------------------------------------------------------------------------------
 // 2. RADIO LORA (Semtech SX1262)
@@ -79,7 +79,7 @@
 #define I2S_MCLK        0
 
 // ==============================================================================
-// CONFIGURAZIONE RUOLI E CAPACITÀ MESHCORE (Aggiunte)
+// Roles and Capacity config
 // ==============================================================================
 #define ROLE_ROUTER_SUPPORTED   false
 #define ROLE_REPEATER_SUPPORTED false
@@ -90,7 +90,6 @@
 #define HAS_TFT                    true
 #define HAS_TOUCH                  true
 
-// Costante fondamentale per MyMesh.cpp
 #define MAX_GROUP_CHANNELS 8 
 
 
