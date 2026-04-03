@@ -40,7 +40,7 @@ public:
 
         // 3. Backlight high
         pinMode(TFT_BL, OUTPUT);
-        digitalWrite(TFT_BL, HIGH); 
+        digitalWrite(TFT_BL, LOW); 
 
         pinMode(LORA_CS, OUTPUT);
         digitalWrite(LORA_CS, HIGH);
